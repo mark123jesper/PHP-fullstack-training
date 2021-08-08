@@ -1,0 +1,8 @@
+1) Calculate the Student Total Marks for 3 Subjects
+2) Display the total without a $totalMarks Variable
+3) Find the difference between marks achieved and total marks
+4) Calculate the area using length and breath
+5) Calculate the Percentage of Overall Scored Marks
+6) Check if the remainder is 0 or 1
+7) Use Multiplication Operator
+

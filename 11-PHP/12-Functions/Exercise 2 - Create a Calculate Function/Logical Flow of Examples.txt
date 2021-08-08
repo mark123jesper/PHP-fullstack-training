@@ -1,0 +1,4 @@
+1) Write a function to accept two integer values and show add, sub, multiple and divide.
+2) Accept Optional parameter to perform specific operations
+3) Print the output from the function.
+4) declare(strict_types=1);

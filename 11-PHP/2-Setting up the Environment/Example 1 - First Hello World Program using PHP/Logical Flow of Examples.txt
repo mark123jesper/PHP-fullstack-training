@@ -1,0 +1,7 @@
+1) Display Hello World with php tags.
+2) Display Hello World with print.
+3) Replace <?php echo with <?=.
+4) Remove the semicolon and execute.
+5) Show all the possible ways to display text.
+
+

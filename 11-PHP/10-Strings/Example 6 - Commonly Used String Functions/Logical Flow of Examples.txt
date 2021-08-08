@@ -1,0 +1,10 @@
+1) Learn to use the following String Functions
+	- Number of Words
+	- Replace Strings
+	- Reverse Strings
+	- Remove White Spaces
+	- Shuffle Strings
+ 	- Find Position case insenstive.
+	- Upper and Lowercase
+	- Word Wrap the String and display it.
+	

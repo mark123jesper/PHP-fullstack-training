@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c49224a-0e9b-4f5f-835a-c179268f8b76" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/9-Control Structures/Example 5 - while Loop/After/whileloop.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/15-Files/Example 5 - Read and Write CSV Data/After/ReadCSV.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/16-Date and Time/Example 1 - Date and TimeStamp/After/PrintDateTime.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="59" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2-Setting up the Environment/PHP Editor.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="54" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2-Setting up the Environment/PHP Installation Softwares.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3-Introduction to PHP/Materials/PHP Useful Resources/PHP Books.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/3-Introduction to PHP/Materials/PHP Useful Resources/PHP Sites.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/15-Files/Example 4 - Read Configuration File into an Array/After/ArrayConfig.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Srini</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>PHP</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/14-Regular Expressions/Exercise 1 - Find a String using Regex/Logical Flow of Examples.txt" />
+        <option value="$PROJECT_DIR$/14-Regular Expressions/Exercise 2 - Validate a String using Regex/Deliverables.txt" />
+        <option value="$PROJECT_DIR$/14-Regular Expressions/Exercise 2 - Validate a String using Regex/Logical Flow of Examples.txt" />
+        <option value="$PROJECT_DIR$/14-Regular Expressions/Example 4 - Data Validation/After/MatchStringRegex.php" />
+        <option value="$PROJECT_DIR$/14-Regular Expressions/Practical Test/Logical Flow of Examples.txt" />
+        <option value="$PROJECT_DIR$/14-Regular Expressions/Practical Test/Deliverables.txt" />
+        <option value="$PROJECT_DIR$/15-Files/Example 1 - Working with Directories/Logical Flow of Examples.txt" />
+        <option value="$PROJECT_DIR$/15-Files/Example 1 - Working with Directories/Deliverables.txt" />
+        <option value="$PROJECT_DIR$/15-Files/Example 1 - Working with Directories/After/FileDirectories.php" />
+        <option value="$PROJECT_DIR$/15-Files/Example 2 - Copy, Rename and Delete a File/Deliverables.txt" />
+        <option value="$PROJECT_DIR$/15-Files/Example 2 - Copy, Rename and Delete a File/Logical Flow of Examples.txt" />
+        <option value="$PROJECT_DIR$/15-Files/Example 2 - Copy, Rename and Delete a File/After/FileOperations.php" />
+        <option value="$PROJECT_DIR$/15-Files/Example 3 - Read and Write Files/Logical Flow of Examples.txt" />
+        <option value="$PROJECT_DIR$/15-Files/Example 3 - Read and Write Files/Deliverables.txt" />
+        <option value="$PROJECT_DIR$/15-Files/Example 3 - Read and Write Files/After/ReadWriteFiles.php" />
+        <option value="$PROJECT_DIR$/15-Files/Example 4 - Read Configuration File into an Array/Logical Flow of Examples.txt" />
+        <option value="$PROJECT_DIR$/15-Files/Example 4 - Read Configuration File into an Array/Deliverables.txt" />
+        <option value="$PROJECT_DIR$/15-Files/Example 4 - Read Configuration File into an Array/After/Config.txt" />
+        <option value="$PROJECT_DIR$/15-Files/Example 4 - Read Configuration File into an Array/After/config.php" />
+        <option value="$PROJECT_DIR$/15-Files/Example 4 - Read Configuration File into an Array/After/ArrayConfig.php" />
+        <option value="$PROJECT_DIR$/15-Files/Example 4 - Read Configuration File into an Array/After/test.ini" />
+        <option value="$PROJECT_DIR$/15-Files/Example 5 - Read and Write CSV Data/Deliverables.txt" />
+        <option value="$PROJECT_DIR$/15-Files/Example 5 - Read and Write CSV Data/Logical Flow of Examples.txt" />
+        <option value="$PROJECT_DIR$/15-Files/Example 5 - Read and Write CSV Data/After/students.csv" />
+        <option value="$PROJECT_DIR$/15-Files/Example 5 - Read and Write CSV Data/After/ReadCSV.php" />
+        <option value="$PROJECT_DIR$/15-Files/Exercise 1 - Create File, Write Content and Save File/Deliverables.txt" />
+        <option value="$PROJECT_DIR$/15-Files/Exercise 1 - Create File, Write Content and Save File/After/WriteFile.php" />
+        <option value="$PROJECT_DIR$/15-Files/Exercise 1 - Create File, Write Content and Save File/Logical Flow of Examples.txt" />
+        <option value="$PROJECT_DIR$/15-Files/Exercise 2 - Read File, Print Output and Append to File/Logical Flow of Examples.txt" />
+        <option value="$PROJECT_DIR$/15-Files/Exercise 2 - Read File, Print Output and Append to File/Deliverables.txt" />
+        <option value="$PROJECT_DIR$/15-Files/Exercise 2 - Read File, Print Output and Append to File/After/ReadFile.php" />
+        <option value="$PROJECT_DIR$/16-Date and Time/Example 1 - Date and TimeStamp/After/PrintDateTime.php" />
+        <option value="$PROJECT_DIR$/16-Date and Time/Example 2 - Converting TimeStamp/Deliverables.txt" />
+        <option value="$PROJECT_DIR$/16-Date and Time/Example 2 - Converting TimeStamp/Logical Flow of Examples.txt" />
+        <option value="$PROJECT_DIR$/16-Date and Time/Example 2 - Converting TimeStamp/After/ConvertDate.php" />
+        <option value="$PROJECT_DIR$/16-Date and Time/Example 3 - Common Usecase of Date/Deliverables.txt" />
+        <option value="$PROJECT_DIR$/16-Date and Time/Example 3 - Common Usecase of Date/Logical Flow of Examples.txt" />
+        <option value="$PROJECT_DIR$/16-Date and Time/Example 3 - Common Usecase of Date/After/DateUsecases.php" />
+        <option value="$PROJECT_DIR$/16-Date and Time/Exercise 1 - Print US Current Time/Deliverables.txt" />
+        <option value="$PROJECT_DIR$/16-Date and Time/Exercise 1 - Print US Current Time/After/ustimezone.php" />
+        <option value="$PROJECT_DIR$/16-Date and Time/Exercise 1 - Print US Current Time/Logical Flow of Examples.txt" />
+        <option value="$PROJECT_DIR$/16-Date and Time/Exercise 2 - Show the TimeDifference/Deliverables.txt" />
+        <option value="$PROJECT_DIR$/16-Date and Time/Exercise 2 - Show the TimeDifference/Logical Flow of Examples.txt" />
+        <option value="$PROJECT_DIR$/16-Date and Time/Exercise 2 - Show the TimeDifference/After/TimeDiff.php" />
+        <option value="$PROJECT_DIR$/16-Date and Time/Practical Test - Simple Date Website/Logical Flow of Examples.txt" />
+        <option value="$PROJECT_DIR$/16-Date and Time/Practical Test - Simple Date Website/Deliverables.txt" />
+        <option value="$PROJECT_DIR$/9-Control Structures/Exercise 1 - Display Odd and Even Numbers/After/ControlStructuresExercise1.php" />
+        <option value="$PROJECT_DIR$/9-Control Structures/Exercise 1 - Display Odd and Even Numbers/After/MyConfigFile.php" />
+        <option value="$PROJECT_DIR$/9-Control Structures/Exercise 1 - Display Odd and Even Numbers/Logical Flow of Examples.txt" />
+        <option value="$PROJECT_DIR$/15-Files/Practical Test - Print Students details from File to HTML Table/Logical Flow of Examples.txt" />
+        <option value="$PROJECT_DIR$/2-Setting up the Environment/PHP Editor.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="15" />
+    <option name="y" value="30" />
+    <option name="width" value="1890" />
+    <option name="height" value="960" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Materials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Materials" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Materials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Materials" type="462c0819:PsiDirectoryNode" />
+              <item name="2-Setting up the Environment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Materials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Materials" type="462c0819:PsiDirectoryNode" />
+              <item name="3-Introduction to PHP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Materials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Materials" type="462c0819:PsiDirectoryNode" />
+              <item name="3-Introduction to PHP" type="462c0819:PsiDirectoryNode" />
+              <item name="Materials" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Materials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Materials" type="462c0819:PsiDirectoryNode" />
+              <item name="3-Introduction to PHP" type="462c0819:PsiDirectoryNode" />
+              <item name="Materials" type="462c0819:PsiDirectoryNode" />
+              <item name="PHP Useful Resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Materials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Materials" type="462c0819:PsiDirectoryNode" />
+              <item name="15-Files" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Materials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Materials" type="462c0819:PsiDirectoryNode" />
+              <item name="15-Files" type="462c0819:PsiDirectoryNode" />
+              <item name="Example 4 - Read Configuration File into an Array" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Materials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Materials" type="462c0819:PsiDirectoryNode" />
+              <item name="15-Files" type="462c0819:PsiDirectoryNode" />
+              <item name="Example 4 - Read Configuration File into an Array" type="462c0819:PsiDirectoryNode" />
+              <item name="After" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Materials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Materials" type="462c0819:PsiDirectoryNode" />
+              <item name="15-Files" type="462c0819:PsiDirectoryNode" />
+              <item name="Example 5 - Read and Write CSV Data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Materials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Materials" type="462c0819:PsiDirectoryNode" />
+              <item name="15-Files" type="462c0819:PsiDirectoryNode" />
+              <item name="Example 5 - Read and Write CSV Data" type="462c0819:PsiDirectoryNode" />
+              <item name="After" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Materials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Materials" type="462c0819:PsiDirectoryNode" />
+              <item name="16-Date and Time" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Materials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Materials" type="462c0819:PsiDirectoryNode" />
+              <item name="16-Date and Time" type="462c0819:PsiDirectoryNode" />
+              <item name="Example 1 - Date and TimeStamp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Materials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Materials" type="462c0819:PsiDirectoryNode" />
+              <item name="16-Date and Time" type="462c0819:PsiDirectoryNode" />
+              <item name="Example 1 - Date and TimeStamp" type="462c0819:PsiDirectoryNode" />
+              <item name="After" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Dropbox\Dropbox\Business\Online Training Course\PHP\Learn PHP Basics\Materials\4-PHP Language Basics\Example 3 - Whitespaces\After" />
+      <recent name="D:\Dropbox\Dropbox\Business\Online Training Course\PHP\Learn PHP Basics\Materials\4-PHP Language Basics\Example 1 - Embed PHP Tags\2-After" />
+      <recent name="F:\Dropbox\Dropbox\Business\Online Training Course\PHP\Learn PHP Basics\Materials\2-Setting up the Environment\Example 2 - Comments in PHP\After" />
+      <recent name="F:\Dropbox\Dropbox\Business\Online Training Course\PHP\Learn PHP Basics\Materials\2-Setting up the Environment\Example 1 - First Hello World Program using PHP\After" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="php" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="PHP Server" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="D:/Ampps/www">
+      <CommandLine workingDirectory="D:/Ampps/www/basics" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c49224a-0e9b-4f5f-835a-c179268f8b76" name="Default Changelist" comment="" />
+      <created>1554303858222</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554303858222</updated>
+      <workItem from="1554303859613" duration="8860000" />
+      <workItem from="1554650913087" duration="667000" />
+      <workItem from="1554952133876" duration="11670000" />
+      <workItem from="1555035886392" duration="4000" />
+      <workItem from="1555124047371" duration="19000" />
+      <workItem from="1555124321283" duration="38000" />
+      <workItem from="1555124477565" duration="15771000" />
+      <workItem from="1555167716939" duration="4094000" />
+      <workItem from="1555209708134" duration="2515000" />
+      <workItem from="1555345462497" duration="3262000" />
+      <workItem from="1555390015189" duration="26545000" />
+      <workItem from="1555903017982" duration="33000" />
+      <workItem from="1555903384558" duration="585000" />
+      <workItem from="1555904668318" duration="2142000" />
+      <workItem from="1556698865458" duration="508000" />
+      <workItem from="1556856228641" duration="616000" />
+      <workItem from="1557212437954" duration="625000" />
+      <workItem from="1557907303605" duration="3882000" />
+      <workItem from="1558175223908" duration="596000" />
+      <workItem from="1558178514328" duration="425000" />
+      <workItem from="1558970966973" duration="1418000" />
+      <workItem from="1559542244788" duration="5000" />
+      <workItem from="1559552900432" duration="14428000" />
+      <workItem from="1560136857059" duration="3292000" />
+      <workItem from="1560237909110" duration="7758000" />
+      <workItem from="1560674420124" duration="2533000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="141736000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36842105" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.11900533" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/7-Data Types/Example 1 - Integers/Deliverables.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10-Strings/Example 1 - Combine Two Strings/After/CombineStrings.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7-Data Types/Example 3 - Boolean/After/BooleanDataType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="11" />
+          <folding>
+            <element signature="e#11#492#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7-Data Types/Example 2 - Doubles/After/DoubleDataType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="3" column="20" lean-forward="true" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7-Data Types/Example 1 - Integers/After/IntegersDataType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#11#388#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7-Data Types/Example 5 - NULL/After/NullExample.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="7" selection-end-column="7" />
+          <folding>
+            <element signature="e#11#252#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7-Data Types/Example 4 - Strings/After/StringsDataType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="14" />
+          <folding>
+            <element signature="e#11#428#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7-Data Types/Exercise 2 - Print a Student details/After/DataTypeExercise2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="33" column="8" lean-forward="true" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-Namespaces/Example 1 - Define Namespaces/After/DefineNamespaces.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="11" selection-end-column="7" />
+          <folding>
+            <element signature="e#11#492#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-Namespaces/Example 2 - Define Sub Namespaces/After/DefineNamespaces.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9-Control Structures/Example 1 - If...Else Statement/Logical Flow of Examples.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9-Control Structures/Example 1 - If...Else Statement/Deliverables.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9-Control Structures/Example 1 - If...Else Statement/After/ifelsestatements1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="35" selection-start-line="35" selection-end-line="56" selection-end-column="7" />
+          <folding>
+            <element signature="e#11#223#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9-Control Structures/Example 2 - Else...if Statement/After/elseifstatements.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9-Control Structures/Example 3 - Switch Statement/After/switchstatements.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-306">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9-Control Structures/Example 4 - for Loop/After/forloop.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9-Control Structures/Exercise 1 - Display Odd and Even Numbers/Before/ControlStructuresExercise1Before.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9-Control Structures/Exercise 1 - Display Odd and Even Numbers/After/ControlStructuresExercise1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="60" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9-Control Structures/Exercise 1 - Display Odd and Even Numbers/After/MyConfigFile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9-Control Structures/Example 6 - do...while Loop/After/dowhileloop.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="7" selection-end-column="6" />
+          <folding>
+            <element signature="e#11#103#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9-Control Structures/Exercise 1 - Display Odd and Even Numbers/Logical Flow of Examples.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-Arrays/Example 1 - Define and Access Array/After/DefineArrays.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-Arrays/Example 2 - foreach Loop/After/foreachlooparray.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="63" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="63" />
+          <folding>
+            <element signature="e#11#100#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-Arrays/Example 5 - Indexed Array/After/IndexedArray.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="18" column="66" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-Arrays/Example 6 - Associative Array/After/AssociativeArrays.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="44" column="4" selection-start-line="44" selection-start-column="4" selection-end-line="49" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-Arrays/Example 7 - Multidimension Array/After/MultiDimensionArray.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="54" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-Arrays/Exercise 1 - Define and Read Two Types of Arrays/After/ArrayExercise1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="24" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-Functions/Example 1 - Define and Call a Function/Logical Flow of Examples.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-Functions/Example 1 - Define and Call a Function/Deliverables.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-Functions/Example 1 - Define and Call a Function/After/DefineFunctions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="e#7#172#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-Functions/Example 4 - Default and Optional Values using Function Inputs/After/DefaultParametersFunctions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-Functions/Example 5 - Dynamic Function Calling/After/DynamicFunctionCalling.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="8" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-Functions/Example 7 - In build Functions/Logical Flow of Examples.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-Functions/Example 7 - In build Functions/Deliverables.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14-Regular Expressions/Example 1 - Use Regular Expressions/Deliverables.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14-Regular Expressions/Example 1 - Use Regular Expressions/After/RegularExpressions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-457">
+          <folding>
+            <element signature="e#11#1030#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14-Regular Expressions/Example 2 - Match Characters/After/FindString.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14-Regular Expressions/Example 3 - Complex Patterns/After/EmailIDRegex.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14-Regular Expressions/Example 4 - Data Validation/After/MatchStringRegex.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15-Files/Practical Test - Print Students details from File to HTML Table/Deliverables.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15-Files/Practical Test - Print Students details from File to HTML Table/Logical Flow of Examples.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="65" selection-start-line="3" selection-start-column="65" selection-end-line="3" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15-Files/Example 1 - Working with Directories/After/FileDirectories.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-406">
+          <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15-Files/Exercise 2 - Read File, Print Output and Append to File/Logical Flow of Examples.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9-Control Structures/Example 5 - while Loop/After/whileloop.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15-Files/Example 4 - Read Configuration File into an Array/After/ArrayConfig.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15-Files/Example 5 - Read and Write CSV Data/After/ReadCSV.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16-Date and Time/Example 1 - Date and TimeStamp/After/PrintDateTime.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="59" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-Setting up the Environment/PHP Editor.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="54" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-Setting up the Environment/PHP Installation Softwares.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3-Introduction to PHP/Materials/PHP Useful Resources/PHP Books.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3-Introduction to PHP/Materials/PHP Useful Resources/PHP Sites.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

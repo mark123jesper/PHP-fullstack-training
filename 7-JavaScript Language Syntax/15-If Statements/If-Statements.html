@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>if Statements</title>
+    <script>
+
+        var dayOfWeek = prompt("Enter the Day of Week");
+        var result;
+        dayOfWeek = dayOfWeek.toLowerCase();
+
+        if( dayOfWeek == 'monday' || dayOfWeek == 'mon'){
+            result = "First Day of Week";
+        }else if( dayOfWeek == 'tuesday' || dayOfWeek == 'tue' ){
+            result = "Second Days of Week";
+        }else if( dayOfWeek == 'wednesday' || dayOfWeek == 'wed' ){
+            result = "Mid Week";
+        }else if( dayOfWeek == 'thursday' || dayOfWeek == 'thurs'){
+            result = "Preparing for Weekend";
+        }else if( dayOfWeek == 'friday' || dayOfWeek == 'fri'){
+            result = "It's Friday!";
+        }else if( dayOfWeek == 'saturday' || dayOfWeek == 'sat' ){
+            result = "Enjoying Day!";
+        }else if( dayOfWeek == 'sunday' || dayOfWeek == 'sun'){
+            result = "Resting Day!";
+        }else{
+            result = "Cannot find that Value!";
+        }
+
+    </script>
+
+</head>
+
+<body>
+
+    <h1>if Statements</h1>
+    <script type="text/javascript">
+        document.write( result );
+    </script>
+
+</body>
+</html>

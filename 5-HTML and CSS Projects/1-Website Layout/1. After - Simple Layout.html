@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Page Description">
+        <title>Project 1: Simple Layout</title>
+        <style type="text/css">     
+
+            /* Page Styles */
+
+            *, *:before, *:after {
+                -moz-box-sizing: border-box;
+                -webkit-box-sizing: border-box;
+                box-sizing: border-box;
+            }
+
+            body
+            {
+                background-color: #44080b;
+                color: white;
+                text-align: center;
+                margin: 0;
+                font-family: Helvetica;
+            }
+
+            header,
+            nav,
+            section,
+            footer {
+                border: 10px solid rgba(255,255,255,0.8);
+                margin-bottom: 10px;
+                border-radius: 3px;
+            }
+
+            header, footer {
+                padding: 20px 0;
+            }
+
+            nav, section {
+                padding: 200px 0;
+            }
+
+            /* Page Layout */
+            .container {
+                width: 960px;
+                margin: 0 auto;
+            }
+
+            nav, section, footer {
+                float: left;
+            }
+
+            nav {
+                width: 200px;
+                margin-right: 10px;
+            }
+
+            section {
+                width: 750px;
+            }
+
+            footer {
+                width: 960px;
+            }
+
+        </style>
+    </head>
+
+    <body>
+        <div class="container">
+            <h1>Project 1: Simple Layout</h1>
+            <header>HEADER</header>
+            <nav>NAV</nav>
+            <section>SECTION</section>
+            <footer>FOOTER</footer>
+        </div>
+                  
+    </body>
+</html>

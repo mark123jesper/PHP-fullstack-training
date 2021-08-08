@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sample HTML5 Layout</title>
+    <style>
+
+        body {
+            width: 940px;
+            margin: 0 auto;
+            font: 10pt/1.5em "Georgia", Arial, sans-serif;
+        }
+
+        header,section,article,aside,footer{
+            display: block;
+        }
+
+        header, footer
+        {
+            padding:0px;
+            text-align:center;
+        }
+        nav
+        {
+            text-align:center;
+        }
+        nav ul
+        {
+            list-style-type: none;
+            padding: 0;
+            margin-bottom: 0;
+        }
+
+        nav li
+        {
+            display: inline-block;
+            margin: 0 0 0 50px;
+            width: 100px;
+        }
+
+        aside, .aleft{
+            float: left;
+        }
+        aside, .aright{
+            float: right;
+        }
+
+        section{
+            float: left;
+            width: 500px;
+            padding-left: 20px;
+            padding-right: 20px;
+            border-left: 2px dotted #b2a497;
+            border-right: 2px dotted #b2a497;
+        }
+
+        footer{
+            clear:both !important;
+            width:940px;
+            height: 100px;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+<header>
+    <h1>Page Layout 4</h1>
+</header>
+<hr>
+<nav>
+    <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Contact</a></li>
+    </ul>
+</nav>
+<hr>
+<aside class="aleft">
+    <figure>
+        <img src="dog.jpg" height="100px" width="100px" />
+        <figcaption>German Breed</figcaption>
+    </figure>
+    <div>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+
+    </div>
+</aside>
+
+<section>
+    <article>
+        <header><h1><u>Article 1</u></h1></header>
+        <div>
+            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+        </div>
+        <p>#End of Article 1</p>
+    </article>
+    <article>
+        <header><h1><u>Article 2</u></h1></header>
+        <div>
+            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+        </div>
+        <p>#End of Article 2</p>
+    </article>
+</section>
+<aside class="aright">
+    <figure>
+        <img src="dog.jpg" height="100px" width="100px" />
+        <figcaption>German Breed</figcaption>
+    </figure>
+    <div>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+
+    </div>
+</aside>
+<footer>
+    <hr>
+    Copyright (C) - PHPTraining.com
+</footer>
+</body>
+</html>

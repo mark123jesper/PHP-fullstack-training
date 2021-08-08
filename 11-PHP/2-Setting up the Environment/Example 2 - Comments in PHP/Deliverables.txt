@@ -1,0 +1,6 @@
+1) SingleLineComments.php
+2) MultiLineComments.php
+3) HashComments.php
+4) CommentsAllTypes.php
+5) CommentsInsideComments-Error.php
+6) HTMLandPHPComments.php

@@ -1,0 +1,7 @@
+Assignments: Write a Calculator Class using $this Keyword
+
+1) Create a Calculator Class
+2) Define $a, $b and $result as Properties
+3) Write Getter and Setter Methods.
+4) Write Add Method to add the values and store it in the results properties.
+5) Use the getResults() Method to print the results.

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Adjacent Sibling Selectors CSS">
+        <title>Adjacent Sibling Selectors CSS</title>
+        <style type="text/css">
+            /*
+               selector + selector
+               {
+                   property1: value1; => Declaration
+                   property2: value2; => Declaration
+               }
+
+               Selectors are separated with ‘+’ (plus) sign to indicate the rule is applied one after the other
+            */
+
+            /* Apply the rule to ALL <a> tag general adjacent to <p> tag. */
+            p ~ a{
+                color: red;
+            }
+
+        </style>
+
+    </head>
+
+    <body>
+        <a href="#">This is adjacent tag.</a>
+        <p><a href="#">Lorem Ipsum</a> is simply dummy text of the printing and <a href="#">typesetting industry</a>.</p>
+        <a href="#">This is Genral Adjacent tag.</a>
+        <hr>
+        <p><a href="#">Lorem Ipsum</a> is simply dummy text of the printing and <a href="#">typesetting industry</a>.</p>
+        <hr>
+        <a href="#">This is General Adjacent tag.</a>
+    </body>
+</html>

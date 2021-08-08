@@ -1,0 +1,4 @@
+1) Define a String and Integer Variable
+2) Display String and Variable together
+3) Add Two Numbers with Integer Variable
+

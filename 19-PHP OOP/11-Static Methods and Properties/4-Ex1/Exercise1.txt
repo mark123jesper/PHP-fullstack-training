@@ -1,0 +1,5 @@
+Exercise 1: String Operation Helper Static Class
+
+1) Create StringHelper Class
+2) Define a method countVowel($content) static method.
+3) Count number of vowels in string.

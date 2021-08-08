@@ -1,0 +1,1 @@
+1) Learn how to iterate array elements using foreach loop

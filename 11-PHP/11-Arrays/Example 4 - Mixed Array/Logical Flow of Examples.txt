@@ -1,0 +1,1 @@
+1) Array of Elements with different data types - Mixed Arrays

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="ID Selectors CSS">
+        <title>ID Selectors CSS</title>
+        <style type="text/css">
+            /*
+               #selector
+               {
+                   property1: value1; => Declaration
+                   property2: value2; => Declaration
+               }
+
+               ID Selector are custom defined.
+               You define the ID selector with “#” in-front of it.
+            */
+
+            #red-border {
+                border-style: solid;
+                border-color: red;
+            }
+            .red-border {
+                border-style: solid;
+                border-color: red;
+            }
+
+            #green-border {
+                border-style: solid;
+                border-color: green;
+            }
+
+
+            #text-italics{
+                font-style: italic;
+            }
+
+            /*Specifying this ID style applies to h1 tag*/
+            h1#green-border{
+                border-width: 15px;
+            }
+
+        </style>
+    </head>
+    <body>
+        <h1 id = "green-border text-italics">ID Selector - Custom Names</h1>
+        <h1 class = "green-border">ID Selector - Custom Names</h1>
+
+        <!-- ID should be only one per element -->
+        <!--
+            ID's are unique
+            Each element can have only one ID
+            Each page can have only one element with that ID
+        -->
+
+        <h1 id = "red-border">ID Selector - Custom Names</h1>
+        <h1 class = "red-border">ID Selector - Custom Names</h1>
+
+
+        <p id = "red-border">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+    </body>
+</html>

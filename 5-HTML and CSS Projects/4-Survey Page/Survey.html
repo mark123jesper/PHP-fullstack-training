@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Survey Page">
+  <title>Survey Page</title>
+
+  <style type="text/css">
+        body {
+          font-family: sans-serif;
+          color: #565656;
+          margin: 0;
+        }
+
+        a {
+          color: #7ab55c;
+          text-decoration: none;
+        }
+
+        header {
+          background-color: #30373b;
+          color: white;
+          text-align: center;
+          padding: 5px;
+        }
+
+        nav {
+          line-height: 30px;
+          background-color: #eeeeee;
+          padding: 5px;
+        }
+
+        nav ul {
+          list-style: none;
+          margin: 0 auto;
+          text-align: center;
+        }
+
+        nav ul li {
+          display: inline-block;
+          padding: 10px 15px;
+          font-size: 1.2em;
+          text-transform: uppercase;
+        }
+
+        section {
+          padding: 10px;
+        }
+
+        section h1, h2, form {
+          text-align: center;
+        }
+
+        section p {
+          max-width: 700px;
+          margin: 2em auto;
+          line-height: 1.56;
+        }
+
+        form input[type="text"]{
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            margin-bottom: 30px;
+        }
+
+        footer {
+          background-color: #30373b;
+          color: white;
+          clear: both;
+          text-align: center;
+          padding: 15px;
+        }
+    </style>
+<body>
+
+  <header>
+    <h1>SURVEY.COM</h1>
+  </header>
+  <section>
+        <h1>Submit your Survey Today!</h1>
+        <form>
+            <label for="name">Your Name</label>
+            <input type="text" id="name"/>
+            <label for="email">Your Email</label>
+            <input type="text" id="email"/>
+            <p>
+                <label for="select">Select</label>
+                <select id="select">
+                    <optgroup label="Option Group 1">
+                        <option>Option1 One</option>
+                        <option>Option1 Two</option>
+                        <option>Option1 Three</option>
+                    </optgroup>
+                    <optgroup label="Option Group 2">
+                        <option>Option2 One</option>
+                        <option>Option2 Two</option>
+                        <option>Option2 Three</option>
+                    </optgroup>
+                </select>
+            </p>
+            <p>
+                <label for="checkbox_option1">Checkbox 1:</label>
+                <input id="checkbox_option1" name="checkbox1" type="checkbox" checked="">
+                <label for="checkbox_option2">Checkbox 2:</label>
+                <input id="checkbox_option2" name="checkbox2" type="checkbox">
+                <label for="checkbox_option3">Checkbox 3:</label>
+                <input id="checkbox_option3" name="checkbox3" type="checkbox">
+            </p>
+            <input type="submit"/> &nbsp; &nbsp; <input type="reset" />
+        </form>
+  </section>
+  <footer>
+    Copyright © <a href="https://yoursite.com/" target="_blank">YourSite.com</a>
+  </footer>
+
+</body>
+</html>

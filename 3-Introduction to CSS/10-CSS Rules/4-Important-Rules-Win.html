@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Important Rule has the Highest Precedence">
+        <title>Important Rule has the Highest Precedence</title>
+
+        <!-- CSS Starting -->
+        <style type="text/css">
+
+            p,h1
+            {
+                color: red!important;
+            }
+
+            #text-blue {
+                color:blue;
+            }
+            .text-blue {
+                color: blue;
+            }
+
+            h1#text-blue{
+                color: blue;
+            }
+
+            h1.text-blue{
+                color:blue;
+            }
+
+        </style>
+        <!-- CSS Ending -->
+
+    </head>
+
+    <body>
+
+        <!-- Important rule on the tag is applied. -->
+        <h1 style="color: green;" class="text-blue" id ="text-blue" >Heading!</h1>
+
+        <p style="color: blue;">Paragraph Text</p>
+        <ul>
+            <li>Item 1</li>
+            <li>Item 2</li>
+            <li>Item 3</li>
+        </ul>
+    </body>
+
+</html>

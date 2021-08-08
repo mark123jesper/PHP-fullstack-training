@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f11b704f-88a7-4f8d-97d4-5528dced1021" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PBgCqwQmTVjPVEEOaNv1VFjblP" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/11-Article/Exercise" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Dropbox\Dropbox\Business\PHPBootcamp.com\Materials\Introduction to HTML\11-Article\Exercise" />
+      <recent name="F:\Dropbox\Dropbox\Business\PHPBootcamp.com\Materials\Introduction to HTML\10-Links\Exercise" />
+      <recent name="F:\Dropbox\Dropbox\Business\PHPBootcamp.com\Materials\Introduction to HTML\8-Pre and Code Tags\Exercise" />
+      <recent name="F:\Dropbox\Dropbox\Business\PHPBootcamp.com\Materials\Introduction to HTML\7-Strong, Emphasis, Underline and Italics\Exercise" />
+      <recent name="F:\Dropbox\Dropbox\Business\PHPBootcamp.com\Materials\Introduction to HTML\7-Strong, Emphasis, Underline and Italics" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f11b704f-88a7-4f8d-97d4-5528dced1021" name="Default Changelist" comment="" />
+      <created>1565352646963</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565352646963</updated>
+      <workItem from="1565352652890" duration="28000" />
+      <workItem from="1565352781678" duration="20545000" />
+      <workItem from="1565418771625" duration="15351000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

@@ -1,0 +1,1 @@
+1) Use preg_match method to find something interesting in Strings

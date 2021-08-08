@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Descendant Selectors CSS">
+        <title>Descendant Selectors CSS</title>
+        <style type="text/css">
+            /*
+               selector selector
+               {
+                   property1: value1; => Declaration
+                   property2: value2; => Declaration
+               }
+
+               Selectors are separated with ‘ ‘ (space) to indicate they are parent and child relation.
+            */
+
+            /* Apply the rule to ALL <a> tag under the <body> tag. */
+            body a{
+                color: red;
+            }
+
+        </style>
+
+    </head>
+
+    <body>
+
+        <p>Lorem Ipsum is simply dummy text of the printing and <a href="#">typesetting industry</a>.</p>
+
+        <hr>
+        <a href="#">
+            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+        </a>
+
+        <hr>
+        <div>
+            <p>
+                CSS Rule not applied here.
+                <a href="#">Lorem Ipsum is simply dummy text</a>
+                of the printing and typesetting industry.
+            </p>
+        </div>
+        <hr>
+        <div>
+            <a href="#">Lorem Ipsum is simply dummy text</a>
+            <p>
+                CSS Rule applied here.
+                of the printing and typesetting industry.
+            </p>
+        </div>
+    </body>
+</html>

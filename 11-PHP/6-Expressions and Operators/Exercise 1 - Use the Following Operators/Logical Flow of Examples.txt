@@ -1,0 +1,5 @@
+1) Add two numbers using Arithmetical Operators.
+2) Find Student passed or failed using Conditional Operatos.
+3) Show a number is even or odd using Comparison Operators.
+4) Check if user has access and login rights using Logical Operators.
+5) Assign a integer value and increment by 10 using Assignment Operator.

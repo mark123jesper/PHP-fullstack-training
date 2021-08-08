@@ -1,0 +1,4 @@
+1) Define a Function and call it
+2) Duplicate Functions
+3) Sequence of Functions
+

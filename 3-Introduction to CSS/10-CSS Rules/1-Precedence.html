@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="CSS Order Precedence">
+        <title>CSS Order Precedence</title>
+
+        <!-- CSS Starting -->
+        <style type="text/css">
+
+            h1 {
+                color: blue;
+            }
+
+            p {
+                color: green;
+            }
+
+            /* This takes the precedence over the first declaration */
+            p, h1
+            {
+                color: red;
+            }
+
+            /* First id then class then element */
+            /* The more specific the more precedence */
+            div
+            {
+                color: red;
+            }
+
+            #text-blue{
+                color: blue;
+            }
+
+            .text-green{
+                color: green;
+            }
+
+            div#text-blue{
+                color: lightblue;
+            }
+
+        </style>
+        <!-- CSS Ending -->
+
+    </head>
+
+    <body>
+        <h1>Heading</h1>
+        <p>Paragraph Text</p>
+
+        <!-- Guess what is the color of the text below -->
+        <div id="text-blue" class="text-green">
+            CSS Rule which is more specific has more precedence. <br>
+            id has more precedence over the class.
+            class is more predence over the element.
+        </div>
+
+
+        <ul>
+            <li>Item 1</li>
+            <li>Item 2</li>
+            <li>Item 3</li>
+        </ul>
+    </body>
+
+</html>

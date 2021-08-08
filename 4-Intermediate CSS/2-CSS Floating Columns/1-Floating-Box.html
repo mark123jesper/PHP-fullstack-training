@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Page Description">
+        <title>Floating Example</title>
+        <style type="text/css">
+            /*
+                float property to specify the element to float left or right or
+                follow the existing flow of box arrangement.
+
+                float: none|left|right|initial|inherit;
+
+                none – This will follow the default floating of box and it also
+                         breaks the existing floating property set by it siblings or parent.
+                left and right – allows to element to float left or right
+                initial – Custom value can be given to float the element
+                inherit – Follows the inheritance property from its parent style.
+                clear: both – property will clear the floating of boxes next to each other.
+             */
+
+            .box{
+                height: 130px;
+                width: 130px;
+                margin-bottom: 10px;
+                margin-right: 10px;
+            }
+            .blue{
+                background-color: #5bc0de;
+                float: left;
+            }
+            .green{
+                background-color: #5cb85c;
+                float: right;
+            }
+        </style>
+    </head>
+
+    <body>
+        <div class="box blue"></div>
+        <div class="box blue"></div>
+        <div class="box blue"></div>
+        <div class="box blue"></div>
+        <div class="box blue"></div>
+
+        <div class="box green"></div>
+        <div class="box green"></div>
+        <div class="box green"></div>
+    </body>
+</html>

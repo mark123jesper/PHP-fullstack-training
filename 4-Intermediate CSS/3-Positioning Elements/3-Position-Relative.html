@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Relative Position">
+        <title>Relative Position</title>
+        <style type="text/css">
+
+            body {
+                background: rgba(0,0,0,.1);
+            }
+
+            /*position: relative helps to group the parent and child together and flow them next to each other.*/
+            .container {
+                background: rgba(0,0,0,.4);
+                height: 250px;
+                width: 250px;
+                margin-left: 500px;
+                margin-top: 150px;
+                position: relative; /* For all my child element this is the document. */
+            }
+
+            .box
+            {
+                height: 150px;
+                width: 150px;
+                background-color: #5bc0de;
+                top: 50px;
+                left: 50px;
+                position: absolute;
+            }
+
+        </style>
+    </head>
+
+    <body>
+        <div class="container">
+            CONTAINER
+            <div class="box">BOX</div>
+        </div>
+
+    </body>
+</html>

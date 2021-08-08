@@ -1,0 +1,5 @@
+1) Define two Integer length and breath and print the area
+2) Define 1 String and 1 Integer and Print the area
+3) Define two string characters and print the area.
+
+

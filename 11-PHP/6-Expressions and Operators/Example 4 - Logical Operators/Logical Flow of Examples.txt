@@ -1,0 +1,6 @@
+1) Greet Hello, Name if the user is logged in and has permission
+2) Check if student passed any one exam
+3) Find the difference between and &&
+4) Find the difference between or ||
+5) Check if student is not passed and print the results
+

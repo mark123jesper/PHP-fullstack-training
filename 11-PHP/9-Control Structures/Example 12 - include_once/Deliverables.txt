@@ -1,0 +1,1 @@
+1) main.php will include header.php, menu.php and footer.htm

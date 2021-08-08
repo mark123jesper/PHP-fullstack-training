@@ -1,0 +1,4 @@
+1) Create a Students Array with 3 students
+2) Provide the details: ID, Name, Age and Class
+3) Fill up the Array and Display in HTML Page
+4) Use Table to display the Students details.

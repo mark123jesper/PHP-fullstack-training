@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Try Catch JavaScript</title>
+    <script>
+
+        try{
+
+            var input1 = prompt("Enter some Number");
+
+            //Throw an error when input is empty
+            if( input1 == "") throw "No value mentioned";
+
+            //If the above code is error then this is not executed
+            alert("Input is correct!");
+
+        }catch(error){
+            //Catch the error
+            alert(error);
+        }finally{
+            //This will execute every time with or without error
+            alert("Have a good Day!");
+        }
+
+    </script>
+
+</head>
+
+<body>
+    <h1>Heading</h1>
+    <p>Paragraph Text</p>
+    <ul>
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+    </ul>
+</body>
+</html>

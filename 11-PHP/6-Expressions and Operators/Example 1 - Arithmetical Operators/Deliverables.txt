@@ -1,0 +1,8 @@
+1) ArithmeticalAddOperators1.php
+2) ArithmeticalAddOperators2.php
+3) ArithmeticalSubtractOperators3.php
+4) ArithmeticalMultiplyOperators4.php
+5) ArithmeticalDivideOperators5.php
+6) ArithmeticalModulusOperators6.php
+7) ArithmeticalExponentOperators7.php
+

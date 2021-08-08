@@ -1,0 +1,2 @@
+1) Display Escape Characters in Console.
+2) Display Escape Characters in HTML Page.

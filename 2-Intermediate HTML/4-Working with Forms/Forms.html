@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Form Elements">
+        <title>Form Elements</title>
+    </head>
+    <body>
+        <h1>Form Basic Elements</h1>
+        <form>
+            <fieldset>
+                <legend>Input Box Elements</legend>
+            <p>
+                <label for="input_text">Text:</label>
+                <input id ="input_text" type="text" placeholder="Text">
+            </p>
+            <p>
+                <label for="input_email">Email:</label>
+                <input id ="input_email" type="email" placeholder="test@domain.com">            
+            </p>
+            <p>
+                <label for="input_password">Password:</label>
+                <input id ="input_password" type="password" placeholder="Password">            
+            </p>
+            <p>
+                <label for="input_number">Number:</label>
+                <input id ="input_number" type="number" placeholder="Number">            
+            </p>
+            <p>
+                <label for="input_phonenumber">Phone Number:</label>
+                <input id ="input_phonenumber" type="tel" placeholder="(999) 999999">            
+            </p>
+            <p>
+                <label for="input_url">URL:</label>
+                <input id ="input_url" type="url" placeholder="http://somesite.com">            
+            </p>
+            <p>
+                <label for="input_search">Search:</label>
+                <input id ="input_search" type="search" placeholder="Search...">            
+            </p>
+            </fieldset>
+
+            <fieldset>
+                <legend>Select Form Element</legend>
+                <p>
+                    <label for="select">Select</label>
+                    <select id="select">
+                            <optgroup label="Option Group 1">
+                              <option>Option1 One</option>
+                              <option>Option1 Two</option>
+                              <option>Option1 Three</option>
+                            </optgroup>
+                            <optgroup label="Option Group 2">
+                                    <option>Option2 One</option>
+                                    <option>Option2 Two</option>
+                                    <option>Option2 Three</option>
+                            </optgroup>
+                    </select>
+                </p>
+            </fieldset>
+
+            <fieldset>
+                <legend>Radio Button Element</legend>
+                <p>
+                    <ul>
+                        <li>
+                            <label for="radio_option1">Option 1:</label>
+                            <input id ="radio_option1" name="radio" type="radio" checked>                            
+                        </li>
+                        <li>
+                            <label for="radio_option2">Option 2:</label>
+                            <input id ="radio_option2" name="radio" type="radio">                            
+                        </li>
+                    </ul>
+                </p>
+            </fieldset>
+            <fieldset>
+                    <legend>Checkbox Element</legend>
+                    <p>
+                        <label for="checkbox_option1">Checkbox 1:</label>
+                        <input id ="checkbox_option1" name="checkbox1" type="checkbox" checked>                            
+                        <label for="checkbox_option2">Checkbox 2:</label>
+                        <input id ="checkbox_option2" name="checkbox2" type="checkbox">                            
+                        <label for="checkbox_option3">Checkbox 3:</label>
+                        <input id ="checkbox_option3" name="checkbox3" type="checkbox">                                                    
+                    </p>
+            </fieldset>
+            <fieldset>
+                    <legend>TextArea Element</legend>
+                    <p>
+                        <label for="textarea1">Textarea:</label><br>
+                        <textarea id="textarea1" rows="5" cols="50" placeholder="Enter Text here"></textarea>
+                    </p>
+            </fieldset>
+
+            <p><input type="submit"> &nbsp;&nbsp; <input type="reset"></p>
+        </form>
+        <hr>
+        <h1>Student Information Form</h1>
+        <form>
+            <p>
+                <label for="input_name">Full Name:</label>
+                <input id ="input_name" type="text" placeholder="Name here">                
+            </p>
+            <p>
+                <label for="input_age">Age:</label>
+                <input id ="input_age" type="number" placeholder="Your Age">
+            </p>
+            <p>
+                <label for="input_hobbies">Email ID:</label>
+                <input id ="input_hobbies" type="email" placeholder="Email ID">            
+            </p>
+             <p>
+                <label for="input_mobile">Mobile No.:</label>
+                <input id ="input_mobile" type="tel" placeholder="Contact Number">
+            </p>
+
+            <p>
+                <label for="select_class">Applying for</label>
+                <select id="select_class">
+                        <optgroup label="Primary">
+                            <option>1</option>
+                            <option>2</option>
+                            <option>3</option>
+                            <option>4</option>
+                            <option>5</option>
+                            <option>6</option>
+                            <option>7</option>
+                        </optgroup>
+                        <optgroup label="Secondary">
+                                <option>8</option>
+                                <option>9</option>
+                                <option>10</option>
+                        </optgroup>
+                </select>
+            </p>
+
+            
+            <p>
+                <h3>Gender</h3>
+                <label for="radio_male">Male:</label>
+                <input id ="radio_male" name="gender" type="radio" checked>
+                <label for="radio_female">Female:</label>
+                <input id ="radio_female" name="gender" type="radio">                
+            </p>
+
+            
+            <p>
+                <h3>Do you need these special services:</h3>
+                <label for="checkbox_bus">School Bus:</label>
+                <input id ="checkbox_bus" name="checkbox1" type="checkbox">                            
+                <label for="checkbox_lunch">School Lunch:</label>
+                <input id ="checkbox_lunch" name="checkbox2" type="checkbox">                            
+                <label for="checkbox_facility">Hostel Facility:</label>
+                <input id ="checkbox_facility" name="checkbox3" type="checkbox">                                                    
+            </p>
+
+            <p>
+                <label for="textarea_comments">Have any Comments?</label><br>
+                <textarea id="textarea_comments" rows="5" cols="50" placeholder="Your comments here"></textarea>
+            </p>
+            
+            
+            <p><input type="submit" value="Send">  <input type="reset" value="Clear"></p>
+        </form>
+    </body>
+</html>

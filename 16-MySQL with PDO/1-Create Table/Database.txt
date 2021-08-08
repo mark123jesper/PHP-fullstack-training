@@ -1,0 +1,3 @@
+Database = schooldb
+Table = student
+column = ID, NAME

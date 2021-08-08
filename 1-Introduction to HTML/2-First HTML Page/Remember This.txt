@@ -1,0 +1,6 @@
+- head tag is used to describe about the page.
+- You can write HTML tags in UPPERCASE for best practise write it in lowercase.
+- Tags are not displayed on the browser
+- Indents and Carriage Returns are not display on web page.
+- Whitespaces in HTML are ignored on the browser.
+

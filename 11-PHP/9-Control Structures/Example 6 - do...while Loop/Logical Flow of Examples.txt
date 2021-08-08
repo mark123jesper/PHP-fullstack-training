@@ -1,0 +1,1 @@
+1) Print Square of a number maximum till 100 using Do While Loop

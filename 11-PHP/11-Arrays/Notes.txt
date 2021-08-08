@@ -1,0 +1,11 @@
+
+Reference: https://www.php.net/manual/en/language.types.array.php
+As of PHP 5.4 you can also use the short array syntax, which replaces array() with [].
+
+If it is not specified, PHP will use the increment of the largest previously used integer key.
+
+braces surrounding arrays within strings allows constants to be interpreted
+" {arr[$value]}"
+
+https://www.php.net/manual/en/ref.array.php
+

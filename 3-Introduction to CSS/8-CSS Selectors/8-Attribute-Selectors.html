@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Attribute Selectors CSS">
+        <title>Attribute Selectors CSS</title>
+        <style type="text/css">
+            /*
+               selector[class]
+               {
+                   property1: value1; => Declaration
+                   property2: value2; => Declaration
+               }
+
+               p[class] this attribute selector tell the browser to apply
+               the rule to the <p> HTML Tag when it has the class attribute.
+            */
+
+            /* Affect the <p> tag that has class attribute */
+            p[class]{
+                color: red;
+                font-weight: bold;
+            }
+
+            /* Affect the <p> tag that has class attribute as color-blue */
+            p[class=color-blue]{
+                color: blue;
+            }
+
+
+            /*
+                p[class~=color-blue] ===> Targets <p> tag which has many class name and one of it is "color-blue"
+                p[attr^"c"] ====> Attribute value starts with "c"
+                p[attr*"c"] ====> Attribute value has the letter "c"
+                p[attr$"c"] ====> Attribute value ends with the letter "c"
+            */
+
+        </style>
+
+    </head>
+
+    <body>
+    <!-- CSS rule is applied here -->
+    <p class="something">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+    <hr>
+    <!-- CSS rule is applied here -->
+    <p  class="color-blue">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+
+    </body>
+</html>

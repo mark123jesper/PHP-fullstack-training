@@ -1,0 +1,5 @@
+1) Configure PHP in Environment Variables.
+2) Display PHP code in Command Line Console.
+3) Display PHP with HTML code in Command Line Console.
+
+

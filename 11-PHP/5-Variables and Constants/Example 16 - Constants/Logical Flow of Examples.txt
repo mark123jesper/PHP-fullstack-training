@@ -1,0 +1,5 @@
+1) Define and Use Constant
+2) Change the value of Constant
+3) Same name with Variable and Constant
+4) Naming Rules of Constant
+5) isset method for Constant

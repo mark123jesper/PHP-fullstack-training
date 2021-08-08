@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Page Description">
+        <title>Floating Example</title>
+        <style type="text/css">
+            h1 {
+                text-align: center;
+                text-decoration: underline;
+            }
+            img {
+                margin-right: 20px;
+            }
+
+            .clearfix::after {
+                /*
+                content: "";
+                clear: both;
+                display: table;
+                */
+                /*This code snippet is a famous hack that many developers use to clear any floating objects after the box.*/
+                content: ".";
+                /* This display property you will learn in next lesson */
+                display: block;
+                clear: both;
+                height: 0;
+                /* Hide the content that we placed above “.” */
+                visibility: hidden;
+            }
+
+            .float-left {
+                float: left;
+            }
+
+            .float-right{
+                float: right;
+            }
+        </style>
+    </head>
+
+    <body>
+        <h1>German Shepherd</h1>
+        <div class="clearfix">
+            <img class="float-left" src ="dog.jpg" alt="German Shepherd" height="250px" width="250px">
+            <p>The German Shepherd (German: Deutscher Schäferhund, German pronunciation:  is a breed of medium to large-sized working dog that originated in Germany. The breed's officially recognized name is German Shepherd Dog in the English language (sometimes abbreviated as GSD). The breed was once known as the Alsatian in Britain and Ireland.</p>
+        </div>
+        <hr>
+        <div class="clearfix">
+            <img class="float-right" src ="dog.jpg" alt="German Shepherd" height="250px" width="250px">
+            <p>The German Shepherd (German: Deutscher Schäferhund, German pronunciation:  is a breed of medium to large-sized working dog that originated in Germany. The breed's officially recognized name is German Shepherd Dog in the English language (sometimes abbreviated as GSD). The breed was once known as the Alsatian in Britain and Ireland.</p>
+        </div>
+        <hr>
+        <div class="clearfix">
+            <img class="float-left" src ="dog.jpg" alt="German Shepherd" height="250px" width="250px">
+            <img class="float-left" src ="dog.jpg" alt="German Shepherd" height="250px" width="250px">
+            <img class="float-left" src ="dog.jpg" alt="German Shepherd" height="250px" width="250px">
+        </div>
+        <hr>
+    </body>
+</html>

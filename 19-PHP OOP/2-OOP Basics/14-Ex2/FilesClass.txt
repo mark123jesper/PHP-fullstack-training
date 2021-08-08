@@ -1,0 +1,5 @@
+1) Create a Files Class
+2) Create Methods
+	- displayContent with filename as input parameter
+	- getContent with filename as input parameter
+3) Pass the Test.txt and displayContent and getContent.

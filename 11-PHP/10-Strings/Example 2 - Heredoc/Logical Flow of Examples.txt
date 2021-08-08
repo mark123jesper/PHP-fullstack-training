@@ -1,0 +1,1 @@
+1) Write a block of strings with heredoc

@@ -1,0 +1,11 @@
+Code Editor:
+---------------------------------
+1) https://www.sublimetext.com/ (Used for this course)
+2) https://notepad-plus-plus.org/
+
+IDE:
+---------------------------------
+1) https://www.jetbrains.com/phpstorm/
+2) http://www.mpsoftware.dk/phpdesigner.php
+3) https://netbeans.org/
+

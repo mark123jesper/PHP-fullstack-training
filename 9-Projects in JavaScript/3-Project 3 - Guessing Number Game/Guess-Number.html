@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Page Description">
+    <title>Guess The Number</title>
+    <script>
+
+        var message = "";
+        var answer = 5;
+
+        do{
+            var input1 = prompt("Guess the Number Between 1 to 10!");
+            input1 = parseInt(input1);
+
+            if( input1 != answer ){
+                alert("Nope - Wrong.");
+            }
+
+        }while(answer != input1)
+
+        message =  "You Guessed it Right - " + answer + " is the answer!";
+
+    </script>
+
+</head>
+
+<body>
+
+    <h1>Guess the Number</h1>
+    <script type="text/javascript">
+        document.write(message);
+    </script>
+
+</body>
+
+</html>

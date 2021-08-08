@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="ID and Class Selectors CSS">
+        <title>ID and Class Selectors CSS</title>
+        <style type="text/css">
+
+            .green-border {
+                border-style: solid;
+                border-color: green;
+            }
+
+            #red-border {
+                border-style: solid;
+                border-color: red;
+            }
+
+            .text-italics{
+                font-style: italic;
+            }
+
+        </style>
+    </head>
+    <body>
+        <!-- ID has more preference than class -->
+        <!-- ID cannot be duplicated -->
+        <h1 class = "green-border" id = "red-border" >ID and Class Selector - Custom Names</h1>
+        <h1 class = "green-border text-italics" id = "red-border" >ID and Class Selector - Custom Names</h1>
+    </body>
+</html>

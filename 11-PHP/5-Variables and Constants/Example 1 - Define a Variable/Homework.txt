@@ -1,0 +1,4 @@
+1) Define $first and $last variable names.
+2) Assign some values to the variables.
+3) Print both of the variables in a single string using echo.
+4) Use Double quotes in the echo function.

@@ -1,0 +1,5 @@
+Assignments: Create Car Class with Access Modifiers
+
+1) Define Properties as private
+2) Define Getter and Setter Methods
+3) Define public methods like increaseSpeed and DecreaseSpeed

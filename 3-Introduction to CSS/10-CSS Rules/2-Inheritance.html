@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Inheritance in CSS">
+        <title>Inheritance in CSS</title>
+
+        <!-- CSS Starting -->
+        <style type="text/css">
+
+            /* Anything defined here will be applied to all child elements. */
+            body{
+                color: white;
+                background-color: red;
+            }
+
+            /* Overwrite background-color style from parent. */
+            h1{
+                text-decoration: underline;
+                background-color: black;
+            }
+
+            .blackscreen{
+                background-color: black;
+            }
+        </style>
+        <!-- CSS Ending -->
+
+    </head>
+
+    <body>
+        <h1>Heading!</h1>
+        <!-- Inherit the background-color from body parent element style. -->
+        <p>Paragraph Text</p>
+        <ul>
+            <li>Item 1</li>
+            <li>Item 2</li>
+            <li>Item 3</li>
+        </ul>
+        <hr>
+        <!-- Overwrite the background-color style from parent -->
+        <p class="blackscreen"><a href="#">Lorem Ipsum is simply dummy text</a> of the printing and typesetting industry. </p>
+        <hr>
+        <p><a href="#">Lorem Ipsum is simply dummy text</a> of the printing and typesetting industry. </p>
+    </body>
+
+</html>

@@ -1,0 +1,3 @@
+1) VariableTyping1.php
+2) VariableTyping2.php
+3) VariableTyping3.php

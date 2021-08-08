@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Last Rule has the Highest Precedence">
+        <title>Last Rule has the Highest Precedence</title>
+
+        <!-- CSS Starting -->
+        <style type="text/css">
+            body{
+                color: red;
+            }
+
+            h1
+            {
+                color: red;
+            }
+
+            p
+            {
+                color: red;
+            }
+
+            #text-red {
+                color:red;
+            }
+            .text-red {
+                color: red;
+            }
+
+            h1#text-red{
+                color: red;
+            }
+
+            h1.text-red{
+                color:red;
+            }
+
+        </style>
+        <!-- CSS Ending -->
+
+    </head>
+
+    <body>
+
+        <!-- inline style will be applied last -->
+        <h1 style="color: green;" class="text-red" id ="text-red" >Heading!</h1>
+
+        <p style="color: blue;">Paragraph Text</p>
+        <ul>
+            <li>Item 1</li>
+            <li>Item 2</li>
+            <li>Item 3</li>
+        </ul>
+    </body>
+
+</html>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Type Selectors CSS">
+        <title>Type Selectors CSS</title>
+        <style type="text/css">
+            /*
+               selector
+               {
+                   property1: value1; => Declaration
+                   property2: value2; => Declaration
+               }
+
+               Type Selector are defined with HTML tags only.
+            */
+            h1 {
+                border-style: solid;
+                border-color: red;
+            }
+
+            p {
+                border-style: solid;
+                border-color: green;
+            }
+
+            /* This rule applies to <p> and <h1> tag */
+            /* , is used to add multiple selectors */
+            h1, p{
+                font-style: italic;
+            }
+
+        </style>
+    </head>
+    <body>
+        <h1>Type Selector - HTML Tags</h1>
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+    </body>
+</html>

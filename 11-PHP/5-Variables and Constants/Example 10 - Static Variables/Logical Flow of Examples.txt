@@ -1,0 +1,2 @@
+1) Define a Static Variable and Print it
+

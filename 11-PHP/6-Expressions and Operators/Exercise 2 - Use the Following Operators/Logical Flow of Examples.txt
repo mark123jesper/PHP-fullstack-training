@@ -1,0 +1,5 @@
+1) Decrement a number using Decrement Operator.
+2) Show the negative of 5 using Bitwise Operator.
+3) Execute a dos or linux command using Execution Operator.
+4) Raise and Error and control it using Execution Operators.
+5) Show an example of Operator Precedence Operator.

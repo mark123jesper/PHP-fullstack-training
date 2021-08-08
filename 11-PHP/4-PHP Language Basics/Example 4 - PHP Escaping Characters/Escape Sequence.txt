@@ -1,0 +1,7 @@
+\n - New Line
+\r - Carriage Return
+\t - Tab
+\$ - Dollar Sign
+\" - Double Quotes
+\' - Single Quotes
+\\ - Single Backslach

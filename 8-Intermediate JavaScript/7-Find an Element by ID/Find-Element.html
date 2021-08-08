@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Find Element by ID</title>
+    <script>
+
+        function show(){
+            var txtValue = document.getElementById('txtName').value;
+            alert( txtValue );
+        }
+    </script>
+</head>
+
+<body>
+<h1>Access the DOM Elements</h1>
+<form>
+
+    <input type="text" id="txtName" />
+    <input type="button" onclick="show();" Value="Show Value" />
+</form>
+</body>
+</html>

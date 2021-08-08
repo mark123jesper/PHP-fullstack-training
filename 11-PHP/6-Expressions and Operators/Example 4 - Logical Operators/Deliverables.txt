@@ -1,0 +1,5 @@
+1) LogicalOperators1.php
+2) LogicalOperators2.php
+3) LogicalOperators3.php
+4) LogicalOperators4.php
+5) LogicalOperators5.php

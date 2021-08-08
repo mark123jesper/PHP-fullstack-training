@@ -1,0 +1,7 @@
+1) Write a Bank Class
+2) Define balance as Properties and hide it so that is cannot be accessed via object.
+3) Define Public Methods
+	- getBalance
+	- depositAmount
+	- deductAmount
+4) Set the Initial Balance via the Construct

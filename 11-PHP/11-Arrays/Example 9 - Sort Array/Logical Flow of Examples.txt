@@ -1,0 +1,7 @@
+6 functions to sort and array
+    1) Sort Indexed Arrays - Ascending
+    2) Sort Indexed Arrays - Descending
+    3) Sort Associative Arrays - Ascending - By Values
+    4) Sort Associative Arrays - Descending - By Values
+    5) Sort Associative Arrays - Ascending - By Key
+    6) Sort Associative Arrays - Descending - By Key

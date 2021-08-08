@@ -1,0 +1,4 @@
+1) Find a Length of a String
+2) Find a Field inside the String
+3) Write a Documentation about your program using heredoc
+4) Show some examples of String Functions.

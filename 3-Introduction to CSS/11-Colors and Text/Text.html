@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Page Description">
+        <title>CSS Fonts</title>
+
+        <style type="text/css">
+            p
+            {
+                font-family: 'Times New Roman', Times, serif;
+                font-size: 20px; /* em, px, %, normal/medium/large */
+                line-height: 2em;
+                letter-spacing: 0.2em;
+                word-spacing: 1em;
+                text-align: left; /* left, right, center, justify */
+
+                font-style: italic; /* Normal, Italic, Oblique */
+                font-weight: bold; /* Light, Medium, Bold, Black */
+                text-transform: uppercase; /* lowercase, capitalize */
+                text-decoration: underline; /* none, overline, line-through */
+
+                text-indent: 500px;
+                text-shadow: 1px 1px 0px red;
+
+            }
+
+            p::first-letter{
+                font-size: 200%;
+            }
+
+            p::first-line{
+                text-shadow: none;
+            }
+
+            /*
+                font-family – Specify the font-name to be used.
+                font-size – Specify the size of the font in pixels or px. It is the same pixel used in MS Word.
+                font-style – Used to apply the italics, normal or oblique
+                font-weight – Weight is used to represent how thick the stroke of the font should be. Usually bold, light, medium
+                text-transform – Control the case of text – Uppercase or lowercase.
+                text-decoration – Decorating the text underline or over-line.
+                text-shadow – Add shadow at the back of the text.
+             */
+
+        </style>
+    </head>
+
+    <body>
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+    </body>
+</html>

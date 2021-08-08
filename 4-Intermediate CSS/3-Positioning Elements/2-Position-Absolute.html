@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Absolute Position">
+        <title>Absolute Position</title>
+        <style type="text/css">
+            .container {
+                background: rgba(0,0,0,.4);
+                height: 250px;
+                width: 250px;
+                margin-left: 300px;
+                margin-top: 150px;
+            }
+
+            .box
+            {
+                height: 150px;
+                width: 150px;
+                background-color: #5bc0de;
+                top: 50px;
+                left: 50px;
+                position: absolute; /* Absolute to Document and break from parent */
+            }
+
+        </style>
+    </head>
+
+    <body>
+        <div class="container">
+            CONTAINER
+            <div class="box">BOX</div>
+        </div>
+
+    </body>
+</html>

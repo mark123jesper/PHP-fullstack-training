@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Pseudo Elements">
+        <title>Pseudo Elements Selector Notation</title>
+
+        <style type="text/css">
+
+            /*
+                selector:: Pseudo Elements
+                {
+                    property1: value1; => Declaration
+                    property2: value2; => Declaration
+                }
+                Pseudo class are separated with “::” along with the HTML tags.
+            */
+
+            h1::after{
+                content: "!!!";
+            }
+
+            p::first-letter{
+                font-size: 200%;
+            }
+
+
+        </style>
+
+    </head>
+
+    <body>
+
+        <h1>Pseudo Elements</h1>
+        <h1>Exclamation Mark is added by CSS</h1>
+
+        <a href="#1">Home Page</a>
+        <a href="#2">Contact</a>
+        <a href="#3">About</a>
+
+
+        <p><a href="#">Lorem Ipsum is simply dummy text</a> of the printing and typesetting industry. </p>
+
+    </body>
+</html>

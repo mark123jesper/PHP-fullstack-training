@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Floating Example">
+        <title>Floating Example</title>
+        <style type="text/css">
+
+            /*
+                display property controls the behavior of the displaying the elements on the page.
+                display: none; will hide that element on the page.
+                display: block will show the block
+                display: inline will show the block inline.
+            */
+
+            ul{
+                background-color: #333;
+                list-style-type: none;
+                overflow: hidden;
+            }
+
+            li{
+                float: left;
+            }
+
+            li a{
+                display: inline-block;
+                color: white;
+                padding: 14px 16px;
+                text-decoration: none;
+            }
+        </style>
+    </head>
+
+    <body>
+
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Blog</a></li>
+            <li><a href="#">Contact</a></li>
+            <li><a href="#">About</a></li>
+        </ul>
+
+    </body>
+</html>

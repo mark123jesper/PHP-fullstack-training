@@ -1,0 +1,5 @@
+1) Create a Student Class
+2) Create marks as Student Properties
+3) Write examResults() Method of Student Class
+4) examResults() method accepts 3 subjects marks
+5) Passing Marks for each exam is 35 and Maximum Marks is 100 for each subject.

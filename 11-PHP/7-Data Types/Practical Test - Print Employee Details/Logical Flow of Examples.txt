@@ -1,0 +1,5 @@
+1) Print the Employee Details
+2) Working Hours
+3) Employee Email ID and Address
+4) Check if Employer is Married or not
+5) Print the Employer Last Salary Drawn using Doubles

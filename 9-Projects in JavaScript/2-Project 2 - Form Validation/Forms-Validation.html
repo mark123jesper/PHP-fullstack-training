@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Form Validations JavaScript</title>
+    <script>
+
+        function checkFormData(){
+            var message = "";
+
+            //Access the TextBox
+            var tname = document.getElementById("txt_name").value;
+            var temail = document.getElementById("txt_email").value;
+            var tage = document.getElementById("txt_age").value;
+
+            //Access the Radio Button
+            var tgender1 = document.getElementById("radio1").checked;
+            var tgender2 = document.getElementById("radio2").checked;
+
+            //Access the Checkbox
+            var tchkbox = document.getElementById("chkbox").checked;
+
+            message = "Name: " + tname + "<br>";
+            message += "Email: " + temail + "<br>";
+            message += "Age: " + tage + "<br>";
+            message += "Male: " + tgender1 + "<br>";
+            message += "Female: " + tgender2 + "<br>";
+            message += "Agreed: " + tchkbox + "<br>";
+
+            document.getElementById("tmessage").innerHTML = message;
+
+
+        }
+    </script>
+</head>
+
+<body>
+<p id="tmessage"></p>
+<h1>Form Validations</h1>
+<form action="https://wpfreelancer.com/" method="get">
+
+    Your Name: <input type="text" name="tname" id="txt_name" /> <br><br>
+    Your Email: <input type="text" name="temail" id="txt_email" /> <br><br>
+    Your Age: <input type="text" name="tage" id="txt_age" /> <br><br>
+
+    Male <input id ="radio1" name="gender" type="radio" checked>
+    Female <input id ="radio2" name="gender" type="radio"> <br><br>
+
+    <input type="checkbox" id="chkbox" /> Agree to our Terms <br> <br>
+
+    <input type="button" name="submit" value="Submit"
+           onclick="checkFormData();" />
+
+</form>
+
+</body>
+
+</html>

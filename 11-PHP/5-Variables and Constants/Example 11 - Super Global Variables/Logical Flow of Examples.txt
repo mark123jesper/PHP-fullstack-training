@@ -1,0 +1,4 @@
+1) How to use Super Global Variables
+2) Predefined Super Global Variables
+3) Access Global Variables using Super Global Variables from Functions.
+

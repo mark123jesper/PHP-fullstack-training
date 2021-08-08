@@ -1,0 +1,5 @@
+1) Use EQUAL TO (==) operator to check PHP version
+2) DATA TYPE and VALUE IDENTICAL ( -=== )
+3) Find Oranges using !=, <> and !==
+4) Find the senior citizen whose age greater than 60 using greater operator.
+5) Find the Kids who can eat free pizza

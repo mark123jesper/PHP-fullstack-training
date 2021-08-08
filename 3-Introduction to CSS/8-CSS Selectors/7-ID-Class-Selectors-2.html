@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Multiple ID and Class">
+        <title>Multiple ID and Class Selector Notation</title>
+
+        <style type="text/css">
+
+            /*
+            selector.class-selector
+            {
+                property1: value1; => Declaration
+                property2: value2; => Declaration
+            }
+            */
+
+            div.color-red
+            {
+                color: red;
+            }
+
+            /* id and class are siblings */
+            #color-red.align-center
+            {
+                color: red;
+                text-align: center;
+            }
+
+            /* id is parent and class is child */
+            #color-blue .text-underline
+            {
+                color: blue;
+                text-decoration: underline;
+            }
+
+        </style>
+
+    </head>
+
+    <body>
+
+        <h1 class="color-red">Mutiple Class Selector - HTML TAG</h1>
+
+        <div class="color-red">
+            This is red color paragraph.
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+        </div>
+
+        <!-- Specify id and class together - Siblings -->
+        <h1 id="color-red" class="align-center">Power of CSS!!!</h1>
+
+        <hr>
+
+        <!-- id is the parent of class -->
+        <div id="color-blue">
+            <h1 class="text-underline">
+                    Cascaded CSS with Class & ID!!
+            </h1>
+        </div>
+
+    </body>
+</html>

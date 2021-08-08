@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="CSS Box - Width and Height">
+        <title>CSS Box - Width and Height</title>
+
+
+        <style type="text/css">
+            /*
+                Height and Width property is used to control the box sizes.
+
+                100 x 250 means 100 Width x 250 Height
+
+                Properties of the Height and Width:
+                - width
+                - height
+                - minwidth
+                - minheight
+                - maxwidth
+                - maxheight
+            */
+
+            .box250 {
+                height: 250px;
+                width: 250px;
+                border: 5px solid green;
+                margin: 10px;
+                min-width: 100px;
+                min-height: 100px;
+            }
+            .minbox100 {
+                border: 5px solid green;
+                margin: 10px;
+                min-width: 300px;
+                min-height: 300px;
+            }
+            .maxbox500 {
+                border: 5px solid green;
+                margin: 10px;
+                max-width: 500px;
+                max-height: 500px;
+            }
+        </style>
+    </head>
+
+    <body>
+
+        <div class="box250">
+            This is a box with 250x250 size and green border and margin of 10px.
+        </div>
+        <div class="box250" style="padding: 10px;">
+            This is a box with 250x250 size and green border and margin of 10px. <strong>It also has Padding of 10px all sides.</strong>
+        </div>
+        <div class="box250">
+            This is a box with 250x250 size and green border and margin of 10px.
+        </div>
+        <div class="minbox100">
+            I am a flexible box and I can become as small as 300px. How big i can grow? No Limit.
+        </div>
+        <div class="maxbox500">
+            I am a flexible box and I can grow as big as 500px. I can be the smallest.
+        </div>
+
+    </body>
+</html>

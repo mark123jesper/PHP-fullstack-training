@@ -1,0 +1,6 @@
+1) Able to Find and Start the Software
+2) See the Software Icon in the Task View Buttons
+3) Able to Start and Stop the Software
+4) Access the http://localhost page.
+5) Find the Installation Directory
+

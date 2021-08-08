@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7eeb0ba9-7b5a-4299-8947-baa71fddbfdd" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3-this Keyword/3-Ex1/Student.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/6-Access Modifiers - public and private/4-Ex1/After/Bank.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/17-Type Hinting/1-Type Hinting Methods with Arrays/TypeHintingArrays.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>hourlyRate</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/2-OOP Basics/4-Define Class/Database.php" root0="SKIP_HIGHLIGHTING" root1="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/15-Overriding/3-Ex1/OverrideExercise.php" />
+        <option value="$PROJECT_DIR$/16-Magic Methods/1-set and get methods/setandgetmethods.php" />
+        <option value="$PROJECT_DIR$/16-Magic Methods/2-call Method/callMethod.php" />
+        <option value="$PROJECT_DIR$/16-Magic Methods/3-toString Method/toStringMethod.php" />
+        <option value="$PROJECT_DIR$/16-Magic Methods/4-debugInfo Method/debugInfoMethod.php" />
+        <option value="$PROJECT_DIR$/16-Magic Methods/5-Ex1/MagicMethods.php" />
+        <option value="$PROJECT_DIR$/17-Type Hinting/3-Ex1/Posts.php" />
+        <option value="$PROJECT_DIR$/17-Type Hinting/2-Type Hinting Methods with Objects/TypeHintingArrays.php" />
+        <option value="$PROJECT_DIR$/17-Type Hinting/1-Type Hinting Methods with Arrays/TypeHintingArrays.php" />
+        <option value="$PROJECT_DIR$/18-Namespace and Classes/1-How to Define Namespaces/Notes.txt" />
+        <option value="$PROJECT_DIR$/18-Namespace and Classes/2-Use Class from the Namespace/src/OrderManagement/Invoice.php" />
+        <option value="$PROJECT_DIR$/18-Namespace and Classes/2-Use Class from the Namespace/src/OrderManagement/Orders.php" />
+        <option value="$PROJECT_DIR$/18-Namespace and Classes/3-Alias Names for Class from Namespace/OrderPage.php" />
+        <option value="$PROJECT_DIR$/18-Namespace and Classes/2-Use Class from the Namespace/OrderPage.php" />
+        <option value="$PROJECT_DIR$/18-Namespace and Classes/4-Global Namespace/src/OrderManagement/TrackOrder.php" />
+        <option value="$PROJECT_DIR$/18-Namespace and Classes/4-Global Namespace/OrderPage.php" />
+        <option value="$PROJECT_DIR$/18-Namespace and Classes/5-Ex1/Config/Database.php" />
+        <option value="$PROJECT_DIR$/18-Namespace and Classes/5-Ex1/index.php" />
+        <option value="$PROJECT_DIR$/18-Namespace and Classes/6-Ex2/index.php" />
+        <option value="$PROJECT_DIR$/19-Dependency Injection/1-Tight Coupling/TightCoupling.php" />
+        <option value="$PROJECT_DIR$/19-Dependency Injection/2-Example of Dependency Injection/DependencyInjection.php" />
+        <option value="$PROJECT_DIR$/19-Dependency Injection/3-Ex1/DependencyInjectionExercise.php" />
+        <option value="$PROJECT_DIR$/20-Working with Objects/1-Cloning Objects/Posts.php" />
+        <option value="$PROJECT_DIR$/20-Working with Objects/2-Serialise Objects/Posts.php" />
+        <option value="$PROJECT_DIR$/20-Working with Objects/3-Cache Objects/cache.php" />
+        <option value="$PROJECT_DIR$/20-Working with Objects/4-Comparing Objects/Posts.php" />
+        <option value="$PROJECT_DIR$/20-Working with Objects/5-Iterating Objects/Posts.php" />
+        <option value="$PROJECT_DIR$/20-Working with Objects/6-Ex1/Posts.php" />
+        <option value="$PROJECT_DIR$/21-Traits and Code Inclusion/1-Define and Use Traits/TraitsExample.php" />
+        <option value="$PROJECT_DIR$/21-Traits and Code Inclusion/3-Ex1/TraitExercise.php" />
+        <option value="$PROJECT_DIR$/22-AutoLoading and Dynamic Calling/1-AutoLoading Example/Files.php" />
+        <option value="$PROJECT_DIR$/22-AutoLoading and Dynamic Calling/1-AutoLoading Example/Database.php" />
+        <option value="$PROJECT_DIR$/22-AutoLoading and Dynamic Calling/2-Autoloading Namespace/Library/Database.php" />
+        <option value="$PROJECT_DIR$/22-AutoLoading and Dynamic Calling/2-Autoloading Namespace/Library/Files.php" />
+        <option value="$PROJECT_DIR$/22-AutoLoading and Dynamic Calling/2-Autoloading Namespace/AutoloadingNamespace.php" />
+        <option value="$PROJECT_DIR$/22-AutoLoading and Dynamic Calling/3-Ex1/src/StringHelper.php" />
+        <option value="$PROJECT_DIR$/22-AutoLoading and Dynamic Calling/3-Ex1/AutoLoader.php" />
+        <option value="$PROJECT_DIR$/2-OOP Basics/4-Define Class/Car.php" />
+        <option value="$PROJECT_DIR$/2-OOP Basics/6-Define Property/HelloClass.php" />
+        <option value="$PROJECT_DIR$/2-OOP Basics/10-Define Methods with Params/Test1.txt" />
+        <option value="$PROJECT_DIR$/2-OOP Basics/10-Define Methods with Params/Files.php" />
+        <option value="$PROJECT_DIR$/2-OOP Basics/12-Project-Employee Salary/Employee.php" />
+        <option value="$PROJECT_DIR$/5-Chaining Methods and Properties/1-How to Chain Methods and Properties/After/ChainMethods.php" />
+        <option value="$PROJECT_DIR$/5-Chaining Methods and Properties/1-How to Chain Methods and Properties/After/ChainMethods1.php" />
+        <option value="$PROJECT_DIR$/5-Chaining Methods and Properties/1-How to Chain Methods and Properties/After/ChainMethods2.php" />
+        <option value="$PROJECT_DIR$/5-Chaining Methods and Properties/2-Ex1/Before/Posts.php" />
+        <option value="$PROJECT_DIR$/8-final Keyword/2-Ex1/DriverFinal.php" />
+        <option value="$PROJECT_DIR$/9-Interface/1-How to Declare and Implement Interface/CarExample.php" />
+        <option value="$PROJECT_DIR$/9-Interface/2-Implement more than one Interface to Class/CarExample.php" />
+        <option value="$PROJECT_DIR$/9-Interface/2-Implement more than one Interface to Class/SportsCar.php" />
+        <option value="$PROJECT_DIR$/22-AutoLoading and Dynamic Calling/1-AutoLoading Example/AutoLoadingExample.php" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="15" />
+    <option name="y" value="30" />
+    <option name="width" value="1890" />
+    <option name="height" value="960" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Materials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Materials" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Materials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Materials" type="462c0819:PsiDirectoryNode" />
+              <item name="3-this Keyword" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Materials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Materials" type="462c0819:PsiDirectoryNode" />
+              <item name="3-this Keyword" type="462c0819:PsiDirectoryNode" />
+              <item name="2-How to use $this keyword" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Materials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Materials" type="462c0819:PsiDirectoryNode" />
+              <item name="3-this Keyword" type="462c0819:PsiDirectoryNode" />
+              <item name="3-Ex1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Materials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Materials" type="462c0819:PsiDirectoryNode" />
+              <item name="6-Access Modifiers - public and private" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Materials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Materials" type="462c0819:PsiDirectoryNode" />
+              <item name="6-Access Modifiers - public and private" type="462c0819:PsiDirectoryNode" />
+              <item name="4-Ex1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Materials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Materials" type="462c0819:PsiDirectoryNode" />
+              <item name="6-Access Modifiers - public and private" type="462c0819:PsiDirectoryNode" />
+              <item name="4-Ex1" type="462c0819:PsiDirectoryNode" />
+              <item name="After" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Materials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Materials" type="462c0819:PsiDirectoryNode" />
+              <item name="17-Type Hinting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Materials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Materials" type="462c0819:PsiDirectoryNode" />
+              <item name="17-Type Hinting" type="462c0819:PsiDirectoryNode" />
+              <item name="1-Type Hinting Methods with Arrays" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Materials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Materials" type="462c0819:PsiDirectoryNode" />
+              <item name="20-Working with Objects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Materials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Materials" type="462c0819:PsiDirectoryNode" />
+              <item name="22-AutoLoading and Dynamic Calling" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/9-Interface/1-How to Declare and Implement Interface" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Dropbox\Dropbox\Business\Online Training Course\PHP\Paid Courses\OOP\Materials\9-Interface\1-How to Declare and Implement Interface" />
+      <recent name="F:\Dropbox\Dropbox\Business\Online Training Course\PHP\Paid Courses\OOP\Materials\5-Chaining Methods and Properties\1-How to Chain Methods and Properties\After" />
+      <recent name="F:\Dropbox\Dropbox\Business\Online Training Course\PHP\Paid Courses\OOP\Materials\2-OOP Basics\10-Define Methods with Params" />
+      <recent name="F:\Dropbox\Dropbox\Business\Online Training Course\PHP\Paid Courses\OOP\Materials\22-AutoLoading and Dynamic Calling\2-Autoloading Namespace\Library" />
+      <recent name="F:\Dropbox\Dropbox\Business\Online Training Course\PHP\Paid Courses\OOP\Materials\21-Traits and Code Inclusion\2-Multiple Traits in one Class" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Dropbox\Dropbox\Business\Online Training Course\PHP\Paid Courses\OOP\Materials\17-Type Hinting\2-Type Hinting Methods with Objects" />
+      <recent name="F:\Dropbox\Dropbox\Business\Online Training Course\PHP\Paid Courses\OOP\Materials\14-Data Abstraction\1-Example of Data Abstraction" />
+      <recent name="F:\Dropbox\Dropbox\Business\Online Training Course\PHP\Paid Courses\OOP\Materials\7-Inheritance\2-Child Class Own Methods and Properties" />
+      <recent name="F:\Dropbox\Dropbox\Business\Online Training Course\PHP\Paid Courses\OOP\Materials\4-Constructors and Destructors\5-Ex 1" />
+      <recent name="F:\Dropbox\Dropbox\Business\Online Training Course\PHP\Paid Courses\OOP\Materials\4-Constructors and Destructors\4-Usecase-Improve Employee Class with Constructor\After" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7eeb0ba9-7b5a-4299-8947-baa71fddbfdd" name="Default Changelist" comment="" />
+      <created>1561371977371</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561371977371</updated>
+      <workItem from="1561371980573" duration="73021000" />
+      <workItem from="1563421533978" duration="22000" />
+      <workItem from="1563421650539" duration="599000" />
+      <workItem from="1563546225134" duration="14792000" />
+      <workItem from="1563761977205" duration="5527000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="93961000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.35708502" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Database Changes" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/9-Interface/1-How to Declare and Implement Interface/Car.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9-Interface/2-Implement more than one Interface to Class/CarModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9-Interface/1-How to Declare and Implement Interface/CarExample.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9-Interface/1-How to Declare and Implement Interface/SportsCar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="30" lean-forward="true" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9-Interface/2-Implement more than one Interface to Class/SportsCar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="21" column="51" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9-Interface/2-Implement more than one Interface to Class/CarExample.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9-Interface/3-Ex1/PhoneExample.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-Static Methods and Properties/1-Define and Access Static Methods and Properties/StaticMethodExample.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-Static Methods and Properties/2-self Keyword/StaticMethodExample.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-Static Methods and Properties/3-Use case of Static Methods and Properties/FilesHelper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-Static Methods and Properties/4-Ex1/StringHelper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-Polymorphism/1-Example of Polymorphism/PolymorphismExample.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-Polymorphism/2-Ex1/PolymorphismExercise.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13-Data Encapsulation/1-Example of Data Encapsulation/EncapsulationExample.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13-Data Encapsulation/2-Ex1/Student.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14-Data Abstraction/1-Example of Data Abstraction/AbstractionExample.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14-Data Abstraction/2-Ex1/CompanyExercise.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-117" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18-Namespace and Classes/1-How to Define Namespaces/Notes.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18-Namespace and Classes/2-Use Class from the Namespace/src/OrderManagement/Invoice.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18-Namespace and Classes/4-Global Namespace/src/OrderManagement/Orders.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18-Namespace and Classes/2-Use Class from the Namespace/OrderPage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18-Namespace and Classes/3-Alias Names for Class from Namespace/src/OrderManagement/Invoice.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18-Namespace and Classes/3-Alias Names for Class from Namespace/src/OrderManagement/Orders.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18-Namespace and Classes/3-Alias Names for Class from Namespace/OrderPage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18-Namespace and Classes/2-Use Class from the Namespace/src/OrderManagement/Orders.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18-Namespace and Classes/4-Global Namespace/src/OrderManagement/TrackOrder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18-Namespace and Classes/4-Global Namespace/OrderPage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18-Namespace and Classes/5-Ex1/Config/Database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18-Namespace and Classes/6-Ex2/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18-Namespace and Classes/5-Ex1/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19-Dependency Injection/2-Example of Dependency Injection/DependencyInjection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" selection-start-line="37" selection-end-line="37" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19-Dependency Injection/1-Tight Coupling/TightCoupling.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19-Dependency Injection/3-Ex1/DependencyInjectionExercise.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/21-Traits and Code Inclusion/2-Multiple Traits in one Class/MultiTraitsExample.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/21-Traits and Code Inclusion/1-Define and Use Traits/TraitsExample.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/21-Traits and Code Inclusion/3-Ex1/TraitExercise.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22-AutoLoading and Dynamic Calling/1-AutoLoading Example/AutoLoadingExample.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="36" lean-forward="true" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22-AutoLoading and Dynamic Calling/2-Autoloading Namespace/Library/Files.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22-AutoLoading and Dynamic Calling/2-Autoloading Namespace/Library/Database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22-AutoLoading and Dynamic Calling/2-Autoloading Namespace/AutoloadingNamespace.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22-AutoLoading and Dynamic Calling/3-Ex1/src/StringHelper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22-AutoLoading and Dynamic Calling/3-Ex1/AutoLoader.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-OOP Basics/4-Define Class/Database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="42" lean-forward="true" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-OOP Basics/4-Define Class/Car.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <element signature="e#11#332#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-OOP Basics/6-Define Property/HelloClass.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-OOP Basics/5-What is Property and Methods/Car.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-OOP Basics/6-Define Property/Posts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3-this Keyword/2-How to use $this keyword/Car.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3-this Keyword/3-Ex1/Student.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-Access Modifiers - public and private/4-Ex1/After/Bank.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17-Type Hinting/1-Type Hinting Methods with Arrays/TypeHintingArrays.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

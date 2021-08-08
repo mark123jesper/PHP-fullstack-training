@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Pseudo Class">
+        <title>Pseudo Class Selector Notation</title>
+
+        <style type="text/css">
+
+            /*
+                selector: pseudo class
+                {
+                    property1: value1; => Declaration
+                    property2: value2; => Declaration
+                }
+                Pseudo class are separated with “:” along with the HTML tags.
+            */
+
+
+            /* UnVisited Link */
+            a:link
+            {
+                color: blue;
+            }
+            /* Visited Link */
+            a:visited
+            {
+                color: gray;
+            }
+            /* On Mouse Over Link */
+            a:hover
+            {
+                color: red;
+            }
+            /* Active link that is clicked */
+            a:active
+            {
+                color: green;
+            }
+
+
+        </style>
+
+    </head>
+
+    <body>
+
+        <h1>Pseudo Class Selector - HTML TAG</h1>
+
+        <a href="#1">Home Page</a>
+        <a href="#2">Contact</a>
+        <a href="#3">About</a>
+
+
+    </body>
+</html>

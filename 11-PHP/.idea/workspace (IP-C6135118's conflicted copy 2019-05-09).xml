@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c49224a-0e9b-4f5f-835a-c179268f8b76" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/7-Data Types/Example 2 - Doubles/Deliverables.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="3" selection-start-column="3" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/7-Data Types/Example 2 - Doubles/DoubleDataType.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/7-Data Types/Example 1 - Integers/IntegersDataType.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="39" />
+              <folding>
+                <element signature="e#11#388#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Srini</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>PHP</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/5-Variables and Constants/Example 14 - Predefined Variables/After/PredefinedVariables.php" />
+        <option value="$PROJECT_DIR$/5-Variables and Constants/Example 15 - Variable isset()/After/Variableisset.php" />
+        <option value="$PROJECT_DIR$/5-Variables and Constants/Example 5 - Variable Typing/After/VariableTyping.php" />
+        <option value="$PROJECT_DIR$/5-Variables and Constants/Example 16 - Recap all Variable Concepts/After/VariableConcepts.php" />
+        <option value="$PROJECT_DIR$/5-Variables and Constants/Example 19 - Valid vs InValid Constant/After/ValidInValidConstants.php" />
+        <option value="$PROJECT_DIR$/5-Variables and Constants/Example 20 - Magic Constant/After/MagicConstants.php" />
+        <option value="$PROJECT_DIR$/5-Variables and Constants/Example 21 - Recap all Constant Concepts/After/ConstantConcepts.php" />
+        <option value="$PROJECT_DIR$/5-Variables and Constants/Exercise 2 - Define and Display Constants/Before/Exercise1VariablesBefore.php" />
+        <option value="$PROJECT_DIR$/5-Variables and Constants/Exercise 1 - Create and Display Variables/Before/Exercise1VariablesBefore.php" />
+        <option value="$PROJECT_DIR$/5-Variables and Constants/Exercise 1 - Create and Display Variables/After/Exercise1Variables.php" />
+        <option value="$PROJECT_DIR$/5-Variables and Constants/Exercise 2 - Define and Display Constants/After/Exercise2Constants.php" />
+        <option value="$PROJECT_DIR$/5-Variables and Constants/Example 18 - Variable vs Constant/After/VariablesVsConstants.php" />
+        <option value="$PROJECT_DIR$/5-Variables and Constants/Example 17 - Constants/After/Constants.php" />
+        <option value="$PROJECT_DIR$/5-Variables and Constants/Example 17 - Variable vs Constant/After/VariablesVsConstants.php" />
+        <option value="$PROJECT_DIR$/6-Expressions and Operators/Example 2 - Arithmetical Operators/After/ArithmeticalOperators1.php" />
+        <option value="$PROJECT_DIR$/6-Expressions and Operators/Example 1 - Arithmetical Operators/After/ArithmeticalOperators2.php" />
+        <option value="$PROJECT_DIR$/6-Expressions and Operators/Example 1 - Arithmetical Operators/After/ArithmeticalSubtractOperators3.php" />
+        <option value="$PROJECT_DIR$/6-Expressions and Operators/Example 1 - Arithmetical Operators/After/ArithmeticalMultiplyOperators4.php" />
+        <option value="$PROJECT_DIR$/6-Expressions and Operators/Example 1 - Arithmetical Operators/After/ArithmeticalDivideOperators5.php" />
+        <option value="$PROJECT_DIR$/6-Expressions and Operators/Example 1 - Arithmetical Operators/After/ArithmeticalModulusOperators6.php" />
+        <option value="$PROJECT_DIR$/6-Expressions and Operators/Example 2 - Comparison Operators/After/ComparisonOperators1.php" />
+        <option value="$PROJECT_DIR$/6-Expressions and Operators/Example 2 - Conditional Operators/After/ConditionalOperators1.php" />
+        <option value="$PROJECT_DIR$/6-Expressions and Operators/Example 3 - Comparison Operators/After/ComparisonOperators1.php" />
+        <option value="$PROJECT_DIR$/6-Expressions and Operators/Example 3 - Comparison Operators/After/ComparisonOperators3.php" />
+        <option value="$PROJECT_DIR$/6-Expressions and Operators/Example 3 - Comparison Operators/After/ComparisonOperators4.php" />
+        <option value="$PROJECT_DIR$/6-Expressions and Operators/Example 3 - Comparison Operators/After/ComparisonOperators5.php" />
+        <option value="$PROJECT_DIR$/6-Expressions and Operators/Example 4 - Logical Operators/After/LogicalOperators1.php" />
+        <option value="$PROJECT_DIR$/6-Expressions and Operators/Example 4 - Logical Operators/After/LogicalOperators2.php" />
+        <option value="$PROJECT_DIR$/6-Expressions and Operators/Example 4 - Logical Operators/After/LogicalOperators4.php" />
+        <option value="$PROJECT_DIR$/6-Expressions and Operators/Example 4 - Logical Operators/After/LogicalOperators3.php" />
+        <option value="$PROJECT_DIR$/6-Expressions and Operators/Example 4 - Logical Operators/After/LogicalOperators5.php" />
+        <option value="$PROJECT_DIR$/6-Expressions and Operators/Example 5 - Assignment Operators/After/AssignmentOperators1.php" />
+        <option value="$PROJECT_DIR$/6-Expressions and Operators/Example 5 - Assignment Operators/After/AssignmentOperators2.php" />
+        <option value="$PROJECT_DIR$/6-Expressions and Operators/Example 5 - Assignment Operators/After/AssignmentOperators3.php" />
+        <option value="$PROJECT_DIR$/6-Expressions and Operators/Example 6 - Increment-Decrement Operators/After/IncrementDecrementOperator.php" />
+        <option value="$PROJECT_DIR$/6-Expressions and Operators/Example 7 - Bitwise Operators/After/BitwiseOperators.php" />
+        <option value="$PROJECT_DIR$/6-Expressions and Operators/Example 8 - Execution Operators/After/ExecutionOperators.php" />
+        <option value="$PROJECT_DIR$/6-Expressions and Operators/Example 9 - Error Control Operators/After/ErrorControlOperators.php" />
+        <option value="$PROJECT_DIR$/6-Expressions and Operators/Example 10 - Operator Precendence/After/OperatorsPrecedence.php" />
+        <option value="$PROJECT_DIR$/6-Expressions and Operators/Exercise 1 - Use the Following Operators/Before/Exercise1OperatorsBefore.php" />
+        <option value="$PROJECT_DIR$/6-Expressions and Operators/Exercise 1 - Use the Following Operators/After/Exercise1Operators.php" />
+        <option value="$PROJECT_DIR$/6-Expressions and Operators/Exercise 2 - Use the Following Operators/Before/Exercise2OperatorsBefore.php" />
+        <option value="$PROJECT_DIR$/6-Expressions and Operators/Exercise 2 - Use the Following Operators/After/Exercise2Operators.php" />
+        <option value="$PROJECT_DIR$/6-Expressions and Operators/Example 1 - Arithmetical Operators/After/ArithmeticalExponentOperators7.php" />
+        <option value="$PROJECT_DIR$/6-Expressions and Operators/Example 10 - Operator Precendence/Logical Flow of Examples.txt" />
+        <option value="$PROJECT_DIR$/7-Data Types/Example 1 - Integers/Logical Flow of Examples.txt" />
+        <option value="$PROJECT_DIR$/7-Data Types/Example 1 - Integers/IntegersDataType.php" />
+        <option value="$PROJECT_DIR$/7-Data Types/Example 2 - Doubles/Logical Flow of Examples.txt" />
+        <option value="$PROJECT_DIR$/7-Data Types/Example 1 - Integers/Deliverables.txt" />
+        <option value="$PROJECT_DIR$/7-Data Types/Example 2 - Doubles/Deliverables.txt" />
+        <option value="$PROJECT_DIR$/7-Data Types/Example 2 - Doubles/DoubleDataType.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="15" />
+    <option name="y" value="30" />
+    <option name="width" value="1890" />
+    <option name="height" value="960" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Materials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Materials" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Materials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Materials" type="462c0819:PsiDirectoryNode" />
+              <item name="7-Data Types" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Materials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Materials" type="462c0819:PsiDirectoryNode" />
+              <item name="7-Data Types" type="462c0819:PsiDirectoryNode" />
+              <item name="Example 1 - Integers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Materials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Materials" type="462c0819:PsiDirectoryNode" />
+              <item name="7-Data Types" type="462c0819:PsiDirectoryNode" />
+              <item name="Example 2 - Doubles" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/7-Data Types/Example 2 - Doubles" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Dropbox\Dropbox\Business\Online Training Course\PHP\Learn PHP Basics\Materials\7-Data Types\Example 2 - Doubles" />
+      <recent name="D:\Dropbox\Dropbox\Business\Online Training Course\PHP\Learn PHP Basics\Materials\4-PHP Language Basics\Example 3 - Whitespaces\After" />
+      <recent name="D:\Dropbox\Dropbox\Business\Online Training Course\PHP\Learn PHP Basics\Materials\4-PHP Language Basics\Example 1 - Embed PHP Tags\2-After" />
+      <recent name="F:\Dropbox\Dropbox\Business\Online Training Course\PHP\Learn PHP Basics\Materials\2-Setting up the Environment\Example 2 - Comments in PHP\After" />
+      <recent name="F:\Dropbox\Dropbox\Business\Online Training Course\PHP\Learn PHP Basics\Materials\2-Setting up the Environment\Example 1 - First Hello World Program using PHP\After" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="php" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="PHP Server" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="D:/Ampps/www">
+      <CommandLine workingDirectory="D:/Ampps/www/basics" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c49224a-0e9b-4f5f-835a-c179268f8b76" name="Default Changelist" comment="" />
+      <created>1554303858222</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554303858222</updated>
+      <workItem from="1554303859613" duration="8860000" />
+      <workItem from="1554650913087" duration="667000" />
+      <workItem from="1554952133876" duration="11670000" />
+      <workItem from="1555035886392" duration="4000" />
+      <workItem from="1555124047371" duration="19000" />
+      <workItem from="1555124321283" duration="38000" />
+      <workItem from="1555124477565" duration="15771000" />
+      <workItem from="1555167716939" duration="4094000" />
+      <workItem from="1555209708134" duration="2515000" />
+      <workItem from="1555345462497" duration="3262000" />
+      <workItem from="1555390015189" duration="26545000" />
+      <workItem from="1555903017982" duration="33000" />
+      <workItem from="1555903384558" duration="585000" />
+      <workItem from="1555904668318" duration="2142000" />
+      <workItem from="1556698865458" duration="508000" />
+      <workItem from="1556856228641" duration="616000" />
+      <workItem from="1557213319181" duration="3465000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="80794000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3360324" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3285968" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/5-Variables and Constants/Exercise 1 - Create and Display Variables/After/Exercise1Variables.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-Expressions and Operators/Example 1 - Conditional Operators/After/ConditionalOperators1.php" />
+    <entry file="file://$PROJECT_DIR$/6-Expressions and Operators/Example 2 - Arithmetical Operators/After/ArithmeticalOperators1.php" />
+    <entry file="file://$PROJECT_DIR$/6-Expressions and Operators/Example 1 - Arithmetical Operators/After/ArithmeticalOperators1.php" />
+    <entry file="file://$PROJECT_DIR$/6-Expressions and Operators/Example 1 - Arithmetical Operators/After/ArithmeticalOperators2.php" />
+    <entry file="file://$PROJECT_DIR$/6-Expressions and Operators/Example 1 - Arithmetical Operators/After/ArithmeticalAddOperators2.php" />
+    <entry file="file://$PROJECT_DIR$/6-Expressions and Operators/Example 1 - Arithmetical Operators/After/ArithmeticalSubtractOperators3.php" />
+    <entry file="file://$PROJECT_DIR$/6-Expressions and Operators/Example 1 - Arithmetical Operators/After/ArithmeticalMultiplyOperators4.php" />
+    <entry file="file://$PROJECT_DIR$/6-Expressions and Operators/Example 1 - Arithmetical Operators/After/ArithmeticalModulusOperators6.php" />
+    <entry file="file://$PROJECT_DIR$/6-Expressions and Operators/Example 1 - Arithmetical Operators/After/ArithmeticalDivideOperators5.php" />
+    <entry file="file://$PROJECT_DIR$/6-Expressions and Operators/Example 2 - Comparison Operators/After/CompareOperators1.php" />
+    <entry file="file://$PROJECT_DIR$/6-Expressions and Operators/Example 2 - Comparison Operators/After/ComparisonOperators1.php" />
+    <entry file="file://$PROJECT_DIR$/6-Expressions and Operators/Example 3 - Comparison Operators/After/ComparisonOperators1.php" />
+    <entry file="file://$PROJECT_DIR$/6-Expressions and Operators/Example 3 - Comparison Operators/After/ComparisonOperators2.php" />
+    <entry file="file://$PROJECT_DIR$/6-Expressions and Operators/Example 3 - Comparison Operators/After/ComparisonOperators4.php" />
+    <entry file="file://$PROJECT_DIR$/6-Expressions and Operators/Example 3 - Comparison Operators/After/ComparisonOperators3.php" />
+    <entry file="file://$PROJECT_DIR$/6-Expressions and Operators/Example 4 - Logical Operators/After/LogicalOperators1.php" />
+    <entry file="file://$PROJECT_DIR$/6-Expressions and Operators/Example 5 - Assignment Operators/After/AssignmentOperators1.php" />
+    <entry file="file://$PROJECT_DIR$/6-Expressions and Operators/Example 5 - Assignment Operators/After/AssignmentOperators2.php" />
+    <entry file="file://$PROJECT_DIR$/6-Expressions and Operators/Example 4 - Logical Operators/After/LogicalOperators2.php" />
+    <entry file="file://$PROJECT_DIR$/6-Expressions and Operators/Example 4 - Logical Operators/After/LogicalOperators4.php" />
+    <entry file="file://$PROJECT_DIR$/6-Expressions and Operators/Example 4 - Logical Operators/After/LogicalOperators3.php" />
+    <entry file="file://$PROJECT_DIR$/6-Expressions and Operators/Exercise 1 - Use the Following Operators/After/Exercise1Operators.php" />
+    <entry file="file://$PROJECT_DIR$/6-Expressions and Operators/Exercise 2 - Use the Following Operators/After/Exercise2Operators.php" />
+    <entry file="file://$PROJECT_DIR$/6-Expressions and Operators/Example 1 - Arithmetical Operators/After/ArithmeticalAddOperators1.php" />
+    <entry file="file://$PROJECT_DIR$/6-Expressions and Operators/Example 1 - Arithmetical Operators/After/ArithmeticalExponentOperators7.php" />
+    <entry file="file://$PROJECT_DIR$/6-Expressions and Operators/Example 2 - Conditional Operators/After/ConditionalOperators1.php" />
+    <entry file="file://$PROJECT_DIR$/6-Expressions and Operators/Example 3 - Comparison Operators/After/ComparisonOperators5.php" />
+    <entry file="file://$PROJECT_DIR$/6-Expressions and Operators/Example 4 - Logical Operators/After/LogicalOperators5.php" />
+    <entry file="file://$PROJECT_DIR$/6-Expressions and Operators/Example 7 - Bitwise Operators/After/BitwiseOperators.php" />
+    <entry file="file://$PROJECT_DIR$/6-Expressions and Operators/Example 6 - Increment-Decrement Operators/After/IncrementDecrementOperator.php" />
+    <entry file="file://$PROJECT_DIR$/6-Expressions and Operators/Example 5 - Assignment Operators/After/AssignmentOperators3.php" />
+    <entry file="file://$PROJECT_DIR$/6-Expressions and Operators/Example 10 - Operator Precendence/After/OperatorsPrecedence.php" />
+    <entry file="file://$PROJECT_DIR$/6-Expressions and Operators/Example 9 - Error Control Operators/After/ErrorControlOperators.php" />
+    <entry file="file://$PROJECT_DIR$/6-Expressions and Operators/Example 8 - Execution Operators/After/ExecutionOperators.php" />
+    <entry file="file://$PROJECT_DIR$/6-Expressions and Operators/Exercise 1 - Use the Following Operators/Before/Exercise1OperatorsBefore.php" />
+    <entry file="file://$PROJECT_DIR$/6-Expressions and Operators/Exercise 1 - Use the Following Operators/Deliverables.txt" />
+    <entry file="file://$PROJECT_DIR$/6-Expressions and Operators/Exercise 2 - Use the Following Operators/Before/Exercise2OperatorsBefore.php" />
+    <entry file="file://$PROJECT_DIR$/6-Expressions and Operators/Exercise 1 - Use the Following Operators/Logical Flow of Examples.txt" />
+    <entry file="file://$PROJECT_DIR$/6-Expressions and Operators/Exercise 2 - Use the Following Operators/Logical Flow of Examples.txt" />
+    <entry file="file://$PROJECT_DIR$/6-Expressions and Operators/Exercise 2 - Use the Following Operators/Deliverables.txt" />
+    <entry file="file://$PROJECT_DIR$/6-Expressions and Operators/Example 10 - Operator Precendence/Logical Flow of Examples.txt" />
+    <entry file="file://$PROJECT_DIR$/6-Expressions and Operators/Example 10 - Operator Precendence/Deliverables.txt" />
+    <entry file="file://$PROJECT_DIR$/6-Expressions and Operators/Example 9 - Error Control Operators/Deliverables.txt" />
+    <entry file="file://$PROJECT_DIR$/6-Expressions and Operators/Example 9 - Error Control Operators/Logical Flow of Examples.txt" />
+    <entry file="file://$PROJECT_DIR$/7-Data Types/Example 1 - Integers/Logical Flow of Examples.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="50" selection-start-column="50" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7-Data Types/Example 1 - Integers/Deliverables.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7-Data Types/Example 2 - Doubles/Logical Flow of Examples.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="58" selection-start-column="58" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7-Data Types/Example 2 - Doubles/Deliverables.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7-Data Types/Example 1 - Integers/IntegersDataType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="39" />
+          <folding>
+            <element signature="e#11#388#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7-Data Types/Example 2 - Doubles/DoubleDataType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

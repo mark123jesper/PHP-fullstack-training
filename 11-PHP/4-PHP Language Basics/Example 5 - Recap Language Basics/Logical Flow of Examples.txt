@@ -1,0 +1,5 @@
+1) Embed PHP Tags
+2) Run PHP on Console
+3) Use Whitespaces
+4) Use Escape Characters
+

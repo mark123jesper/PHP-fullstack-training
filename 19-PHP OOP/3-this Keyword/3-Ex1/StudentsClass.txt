@@ -1,0 +1,6 @@
+1) Define a Student Class
+2) Define Properties of Class
+	- name
+	- class
+3) Define get and set methods to set and access the properties via the methods.
+4) Define printDetails to print both the properties.

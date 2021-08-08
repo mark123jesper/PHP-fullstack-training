@@ -1,0 +1,1 @@
+1) Write a function. Return empty if input parameters are empty.

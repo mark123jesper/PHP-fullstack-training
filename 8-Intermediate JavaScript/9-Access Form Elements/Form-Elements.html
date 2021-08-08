@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Page Description">
+    <title>Inline JavaScript</title>
+    <script>
+
+        function checkFormData(){
+
+            //Query all elements that tag name as input
+            var inputs = document.getElementsByTagName("input");
+
+            var message = "Form Elements\n\n";
+
+            for (var i=0; i < inputs.length; i++)
+            {
+
+                if (inputs[i].getAttribute('type') == 'text')
+                {
+                    message += inputs[i].getAttribute('name') + ": ";
+                    message += inputs[i].value + "\n";
+                }
+            }
+            alert(message);
+        }
+    </script>
+</head>
+
+<body>
+<form name="user" id="userfrm" action="#">
+
+    Your Name: <input type="text" name="name" id="txt_name" />
+
+    Your Email: <input type="text" name="email" id="txt_email" />
+
+    <input type="button" name="submit" value="Submit"
+           onclick="checkFormData();" />
+
+</form>
+
+</body>
+
+</html>

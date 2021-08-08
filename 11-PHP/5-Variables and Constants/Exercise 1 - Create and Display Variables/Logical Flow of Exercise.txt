@@ -1,0 +1,1 @@
+1) Check the Exercise1VariablesBefore.php file for the topics

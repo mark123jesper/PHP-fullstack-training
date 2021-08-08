@@ -1,0 +1,5 @@
+1) Show Single Line Comments
+2) Show Multi Line Comments
+3) Show Hash Comments
+4) Show the Error while using Comments inside the Comments
+5) HTML vs PHP Comments
